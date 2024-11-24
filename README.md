@@ -5,9 +5,6 @@
 <a href="https://github.com/saiki-mbs/github-trending-tracker/actions">
   <img src="https://github.com/saiki-mbs/github-trending-tracker/workflows/Update%20Trending%20Repositories/badge.svg" alt="Build Status">
 </a>
-<a href="LICENSE">
-  <img src="https://img.shields.io/github/license/saiki-mbs/github-trending-tracker" alt="License">
-</a>
 </div>
 
 <div align="center">
@@ -80,10 +77,6 @@ This project automatically archives GitHub's trending repositories every day at 
 └── ...
 ```
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
-Last updated: Sun, 24 Nov 2024 14:19:25 GMT
+Last updated: Sun, 24 Nov 2024 14:33:13 GMT
