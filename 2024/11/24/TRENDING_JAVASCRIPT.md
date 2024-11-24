@@ -1,13 +1,13 @@
 # 🔥 Trending javascript GitHub Repositories
 
-Updated on: **Sun, 24 Nov 2024 15:37:46 GMT**
+Updated on: **Sun, 24 Nov 2024 15:50:24 GMT**
 
 | Author | Repository | Description | Language | ⭐ Total Stars | 🌟 Stars Today |
 |--------|------------|-------------|----------|----------------|----------------|
 | [![gorhill](https://avatars.githubusercontent.com/u/585534?s=40&v=4)](https://github.com/gorhill) | [gorhill/uBlock](https://github.com/gorhill/uBlock) | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. | JavaScript | 47588 | 15 |
 | [![7Sageer](https://avatars.githubusercontent.com/u/125936732?s=40&v=4)](https://github.com/7Sageer) | [7Sageer/sublink-worker](https://github.com/7Sageer/sublink-worker) | 无需服务器，一键部署，快速使用自建节点分享URL进行订阅转换，提供灵活的自定义选项，支持SingBox/Clash/V2Ray/Xray | JavaScript | 830 | 14 |
 | [![zizifn](https://avatars.githubusercontent.com/u/1803942?s=40&v=4)](https://github.com/zizifn) | [zizifn/edgetunnel](https://github.com/zizifn/edgetunnel) | Running V2ray inside edge/serverless runtime | JavaScript | 7181 | 18 |
-| [![koodo-reader](https://avatars.githubusercontent.com/u/13820674?s=40&v=4)](https://github.com/koodo-reader) | [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) | A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web | JavaScript | 19209 | 54 |
+| [![koodo-reader](https://avatars.githubusercontent.com/u/13820674?s=40&v=4)](https://github.com/koodo-reader) | [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) | A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web | JavaScript | 19210 | 54 |
 | [![FortAwesome](https://avatars.githubusercontent.com/u/132895?s=40&v=4)](https://github.com/FortAwesome) | [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) | The iconic SVG, font, and CSS toolkit | JavaScript | 74086 | 148 |
 | [![meshery](https://avatars.githubusercontent.com/u/7570704?s=40&v=4)](https://github.com/meshery) | [meshery/meshery](https://github.com/meshery/meshery) | Meshery, the cloud native manager | JavaScript | 6261 | 12 |
 | [![TheBeastLT](https://avatars.githubusercontent.com/u/39882951?s=40&v=4)](https://github.com/TheBeastLT) | [TheBeastLT/torrentio-scraper](https://github.com/TheBeastLT/torrentio-scraper) | No description | JavaScript | 884 | 15 |

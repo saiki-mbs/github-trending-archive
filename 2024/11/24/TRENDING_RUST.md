@@ -1,11 +1,11 @@
 # 🔥 Trending rust GitHub Repositories
 
-Updated on: **Sun, 24 Nov 2024 15:37:56 GMT**
+Updated on: **Sun, 24 Nov 2024 15:50:38 GMT**
 
 | Author | Repository | Description | Language | ⭐ Total Stars | 🌟 Stars Today |
 |--------|------------|-------------|----------|----------------|----------------|
-| [![surrealdb](https://avatars.githubusercontent.com/u/1588290?s=40&v=4)](https://github.com/surrealdb) | [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) | A scalable, distributed, collaborative, document-graph database, for the realtime web | Rust | 27669 | 22 |
-| [![mediar-ai](https://avatars.githubusercontent.com/u/25003283?s=40&v=4)](https://github.com/mediar-ai) | [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) | rewind.ai x cursor.com = your AI assistant that has all the context. 24/7 screen & voice recording for the age of super intelligence. get your data ready or be left behind | Rust | 9993 | 277 |
+| [![surrealdb](https://avatars.githubusercontent.com/u/1588290?s=40&v=4)](https://github.com/surrealdb) | [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) | A scalable, distributed, collaborative, document-graph database, for the realtime web | Rust | 27672 | 22 |
+| [![mediar-ai](https://avatars.githubusercontent.com/u/25003283?s=40&v=4)](https://github.com/mediar-ai) | [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) | rewind.ai x cursor.com = your AI assistant that has all the context. 24/7 screen & voice recording for the age of super intelligence. get your data ready or be left behind | Rust | 9995 | 277 |
 | [![Snowiiii](https://avatars.githubusercontent.com/u/71594357?s=40&v=4)](https://github.com/Snowiiii) | [Snowiiii/Pumpkin](https://github.com/Snowiiii/Pumpkin) | Empowering everyone to host fast and efficient Minecraft servers. | Rust | 3284 | 15 |
 | [![ricott1](https://avatars.githubusercontent.com/u/16502243?s=40&v=4)](https://github.com/ricott1) | [ricott1/rebels-in-the-sky](https://github.com/ricott1/rebels-in-the-sky) | P2P terminal game about spacepirates playing basketball across the galaxy | Rust | 401 | 43 |
 | [![rust-lang](https://avatars.githubusercontent.com/u/3372342?s=40&v=4)](https://github.com/rust-lang) | [rust-lang/rust](https://github.com/rust-lang/rust) | Empowering everyone to build reliable and efficient software. | Rust | 98820 | 32 |
