@@ -1,11 +1,11 @@
 # 🔥 Trending rust GitHub Repositories
 
-Updated on: **Mon, 25 Nov 2024 07:37:14 GMT**
+Updated on: **Mon, 25 Nov 2024 07:43:25 GMT**
 
 | Author | Repository | Description | Language | ⭐ Total Stars | 🌟 Stars Today |
 |--------|------------|-------------|----------|----------------|----------------|
 | [![surrealdb](https://avatars.githubusercontent.com/u/1588290?s=40&v=4)](https://github.com/surrealdb) | [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) | A scalable, distributed, collaborative, document-graph database, for the realtime web | Rust | 27877 | 27 |
-| [![mediar-ai](https://avatars.githubusercontent.com/u/25003283?s=40&v=4)](https://github.com/mediar-ai) | [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) | rewind.ai x cursor.com = your AI assistant that has all the context. 24/7 screen & voice recording for the age of super intelligence. get your data ready or be left behind | Rust | 10088 | 252 |
+| [![mediar-ai](https://avatars.githubusercontent.com/u/25003283?s=40&v=4)](https://github.com/mediar-ai) | [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) | rewind.ai x cursor.com = your AI assistant that has all the context. 24/7 screen & voice recording for the age of super intelligence. get your data ready or be left behind | Rust | 10089 | 252 |
 | [![Snowiiii](https://avatars.githubusercontent.com/u/71594357?s=40&v=4)](https://github.com/Snowiiii) | [Snowiiii/Pumpkin](https://github.com/Snowiiii/Pumpkin) | Empowering everyone to host fast and efficient Minecraft servers. | Rust | 3292 | 22 |
 | [![rust-lang](https://avatars.githubusercontent.com/u/3372342?s=40&v=4)](https://github.com/rust-lang) | [rust-lang/rust](https://github.com/rust-lang/rust) | Empowering everyone to build reliable and efficient software. | Rust | 98838 | 30 |
 | [![meilisearch](https://avatars.githubusercontent.com/u/3610253?s=40&v=4)](https://github.com/meilisearch) | [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) | A lightning-fast search API that fits effortlessly into your apps, websites, and workflow | Rust | 47583 | 20 |
@@ -17,7 +17,7 @@ Updated on: **Mon, 25 Nov 2024 07:37:14 GMT**
 | [![tokio-rs](https://avatars.githubusercontent.com/u/718941?s=40&v=4)](https://github.com/tokio-rs) | [tokio-rs/axum](https://github.com/tokio-rs/axum) | Ergonomic and modular web framework built with Tokio, Tower, and Hyper | Rust | 19341 | 10 |
 | [![ratatui](https://avatars.githubusercontent.com/u/381361?s=40&v=4)](https://github.com/ratatui) | [ratatui/ratatui](https://github.com/ratatui/ratatui) | A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs | Rust | 10930 | 41 |
 | [![yobix-ai](https://avatars.githubusercontent.com/u/3158098?s=40&v=4)](https://github.com/yobix-ai) | [yobix-ai/extractous](https://github.com/yobix-ai/extractous) | Fast and efficient unstructured data extraction. Written in Rust with bindings for many languages. | Rust | 391 | 10 |
-| [![hyperium](https://avatars.githubusercontent.com/u/5758045?s=40&v=4)](https://github.com/hyperium) | [hyperium/tonic](https://github.com/hyperium/tonic) | A native gRPC client & server implementation with async/await support. | Rust | 10060 | 8 |
+| [![hyperium](https://avatars.githubusercontent.com/u/5758045?s=40&v=4)](https://github.com/hyperium) | [hyperium/tonic](https://github.com/hyperium/tonic) | A native gRPC client & server implementation with async/await support. | Rust | 10061 | 8 |
 | [![influxdata](https://avatars.githubusercontent.com/in/29196?s=40&v=4)](https://github.com/influxdata) | [influxdata/influxdb](https://github.com/influxdata/influxdb) | Scalable datastore for metrics, events, and real-time analytics | Rust | 29012 | 6 |
 | [![gfx-rs](https://avatars.githubusercontent.com/u/107301?s=40&v=4)](https://github.com/gfx-rs) | [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) | A cross-platform, safe, pure-Rust graphics API. | Rust | 12737 | 9 |
 | [![Orange-OpenSource](https://avatars.githubusercontent.com/u/16323814?s=40&v=4)](https://github.com/Orange-OpenSource) | [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) | Hurl, run and test HTTP requests with plain text. | Rust | 13161 | 7 |

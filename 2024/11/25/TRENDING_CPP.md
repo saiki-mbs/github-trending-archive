@@ -1,10 +1,10 @@
 # 🔥 Trending cpp GitHub Repositories
 
-Updated on: **Mon, 25 Nov 2024 07:37:06 GMT**
+Updated on: **Mon, 25 Nov 2024 07:43:19 GMT**
 
 | Author | Repository | Description | Language | ⭐ Total Stars | 🌟 Stars Today |
 |--------|------------|-------------|----------|----------------|----------------|
-| [![shader-slang](https://avatars.githubusercontent.com/u/2652293?s=40&v=4)](https://github.com/shader-slang) | [shader-slang/slang](https://github.com/shader-slang/slang) | Making it easier to work with shaders | C++ | 2827 | 139 |
+| [![shader-slang](https://avatars.githubusercontent.com/u/2652293?s=40&v=4)](https://github.com/shader-slang) | [shader-slang/slang](https://github.com/shader-slang/slang) | Making it easier to work with shaders | C++ | 2828 | 139 |
 | [![RPCS3](https://avatars.githubusercontent.com/u/23019877?s=40&v=4)](https://github.com/RPCS3) | [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) | PlayStation 3 emulator and debugger | C++ | 15613 | 3 |
 | [![justcallmekoko](https://avatars.githubusercontent.com/u/25190487?s=40&v=4)](https://github.com/justcallmekoko) | [justcallmekoko/ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) | A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32 | C++ | 5986 | 8 |
 | [![minetest](https://avatars.githubusercontent.com/u/115571?s=40&v=4)](https://github.com/minetest) | [minetest/minetest](https://github.com/minetest/minetest) | Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation | C++ | 10843 | 7 |
@@ -23,7 +23,7 @@ Updated on: **Mon, 25 Nov 2024 07:37:06 GMT**
 | [![taichi-dev](https://avatars.githubusercontent.com/u/6553256?s=40&v=4)](https://github.com/taichi-dev) | [taichi-dev/taichi](https://github.com/taichi-dev/taichi) | Productive, portable, and performant GPU programming in Python. | C++ | 25550 | 6 |
 | [![qinguoyi](https://avatars.githubusercontent.com/u/25760295?s=40&v=4)](https://github.com/qinguoyi) | [qinguoyi/TinyWebServer](https://github.com/qinguoyi/TinyWebServer) | 🔥 Linux下C++轻量级WebServer服务器 | C++ | 16908 | 10 |
 | [![hrydgard](https://avatars.githubusercontent.com/u/130929?s=40&v=4)](https://github.com/hrydgard) | [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp) | A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the forums at forums.ppsspp.org. | C++ | 11419 | 5 |
-| [![jrouwe](https://avatars.githubusercontent.com/u/1621693?s=40&v=4)](https://github.com/jrouwe) | [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics) | A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West. | C++ | 6821 | 10 |
+| [![jrouwe](https://avatars.githubusercontent.com/u/1621693?s=40&v=4)](https://github.com/jrouwe) | [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics) | A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West. | C++ | 6822 | 10 |
 | [![yhirose](https://avatars.githubusercontent.com/u/357397?s=40&v=4)](https://github.com/yhirose) | [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) | A C++ header-only HTTP/HTTPS server and client library | C++ | 13178 | 4 |
 | [![godotengine](https://avatars.githubusercontent.com/u/4701338?s=40&v=4)](https://github.com/godotengine) | [godotengine/godot](https://github.com/godotengine/godot) | Godot Engine – Multi-platform 2D and 3D game engine | C++ | 91364 | 27 |
 | [![esphome](https://avatars.githubusercontent.com/u/3060199?s=40&v=4)](https://github.com/esphome) | [esphome/esphome](https://github.com/esphome/esphome) | ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems. | C++ | 8563 | 4 |
