@@ -2,8 +2,11 @@
 <h1>GitHub Trending Repositories Archive</h1>
 <p>Daily and weekly snapshots of GitHub's most popular repositories</p>
 
-<a href="https://github.com/saiki-mbs/github-trending-tracker/actions">
-<img src="https://img.shields.io/badge/build-success-brightgreen" alt="Build Status">
+<a href="https://github.com/saiki-mbs/github-trending-archive">
+<img src="https://img.shields.io/badge/build-undefined-red" alt="Build Status">
+</a>
+<a href="https://travis-ci.com/github/saiki-mbs/github-trending-tracker">
+<img src="https://travis-ci.com/saiki-mbs/github-trending-tracker.svg?branch=main" alt="Travis CI Build Status">
 </a>
 </div>
 
@@ -79,4 +82,4 @@ This project automatically archives GitHub's trending repositories every day at 
 
 ---
 
-Last updated: Mon, 25 Nov 2024 04:25:16 GMT
+Last updated: Mon, 25 Nov 2024 05:32:22 GMT
