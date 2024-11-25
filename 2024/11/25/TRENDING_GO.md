@@ -1,12 +1,12 @@
 # 🔥 Trending go GitHub Repositories
 
-Updated on: **Mon, 25 Nov 2024 06:51:55 GMT**
+Updated on: **Mon, 25 Nov 2024 06:54:42 GMT**
 
 | Author | Repository | Description | Language | ⭐ Total Stars | 🌟 Stars Today |
 |--------|------------|-------------|----------|----------------|----------------|
 | [![tmc](https://avatars.githubusercontent.com/u/3977?s=40&v=4)](https://github.com/tmc) | [tmc/langchaingo](https://github.com/tmc/langchaingo) | LangChain for Go, the easiest way to write LLM-based programs in Go | Go | 4944 | 11 |
 | [![yorukot](https://avatars.githubusercontent.com/u/107802416?s=40&v=4)](https://github.com/yorukot) | [yorukot/superfile](https://github.com/yorukot/superfile) | Pretty fancy and modern terminal file manager | Go | 7638 | 45 |
-| [![ollama](https://avatars.githubusercontent.com/u/2372640?s=40&v=4)](https://github.com/ollama) | [ollama/ollama](https://github.com/ollama/ollama) | Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models. | Go | 99243 | 135 |
+| [![ollama](https://avatars.githubusercontent.com/u/2372640?s=40&v=4)](https://github.com/ollama) | [ollama/ollama](https://github.com/ollama/ollama) | Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models. | Go | 99246 | 135 |
 | [![daytonaio](https://avatars.githubusercontent.com/u/25279767?s=40&v=4)](https://github.com/daytonaio) | [daytonaio/daytona](https://github.com/daytonaio/daytona) | The Open Source Dev Environment Manager. | Go | 11875 | 142 |
 | [![SagerNet](https://avatars.githubusercontent.com/u/56506714?s=40&v=4)](https://github.com/SagerNet) | [SagerNet/sing-box](https://github.com/SagerNet/sing-box) | The universal proxy platform | Go | 20209 | 23 |
 | [![Melkeydev](https://avatars.githubusercontent.com/u/53410236?s=40&v=4)](https://github.com/Melkeydev) | [Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint) | Go-blueprint allows users to spin up a quick Go project using a popular framework | Go | 5439 | 82 |
@@ -21,6 +21,6 @@ Updated on: **Mon, 25 Nov 2024 06:51:55 GMT**
 | [![moby](https://avatars.githubusercontent.com/u/585223?s=40&v=4)](https://github.com/moby) | [moby/buildkit](https://github.com/moby/buildkit) | concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit | Go | 8239 | 3 |
 | [![moonD4rk](https://avatars.githubusercontent.com/u/24284231?s=40&v=4)](https://github.com/moonD4rk) | [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) | Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux). | Go | 11147 | 18 |
 | [![photoprism](https://avatars.githubusercontent.com/u/301686?s=40&v=4)](https://github.com/photoprism) | [photoprism/photoprism](https://github.com/photoprism/photoprism) | AI-Powered Photos App for the Decentralized Web 🌈💎✨ | Go | 35504 | 14 |
-| [![charmbracelet](https://avatars.githubusercontent.com/u/42545625?s=40&v=4)](https://github.com/charmbracelet) | [charmbracelet/huh](https://github.com/charmbracelet/huh) | Build terminal forms and prompts 🤷🏻‍♀️ | Go | 4628 | 116 |
+| [![charmbracelet](https://avatars.githubusercontent.com/u/42545625?s=40&v=4)](https://github.com/charmbracelet) | [charmbracelet/huh](https://github.com/charmbracelet/huh) | Build terminal forms and prompts 🤷🏻‍♀️ | Go | 4629 | 116 |
 | [![kubernetes](https://avatars.githubusercontent.com/u/4564227?s=40&v=4)](https://github.com/kubernetes) | [kubernetes/minikube](https://github.com/kubernetes/minikube) | Run Kubernetes locally | Go | 29557 | 13 |
 | [![cli](https://avatars.githubusercontent.com/u/887?s=40&v=4)](https://github.com/cli) | [cli/cli](https://github.com/cli/cli) | GitHub’s official command line tool | Go | 37411 | 12 |

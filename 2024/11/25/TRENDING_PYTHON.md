@@ -1,11 +1,11 @@
 # 🔥 Trending python GitHub Repositories
 
-Updated on: **Mon, 25 Nov 2024 06:51:45 GMT**
+Updated on: **Mon, 25 Nov 2024 06:54:34 GMT**
 
 | Author | Repository | Description | Language | ⭐ Total Stars | 🌟 Stars Today |
 |--------|------------|-------------|----------|----------------|----------------|
-| [![black-forest-labs](https://avatars.githubusercontent.com/u/37085732?s=40&v=4)](https://github.com/black-forest-labs) | [black-forest-labs/flux](https://github.com/black-forest-labs/flux) | Official inference repo for FLUX.1 models | Python | 17285 | 536 |
-| [![abi](https://avatars.githubusercontent.com/u/23818?s=40&v=4)](https://github.com/abi) | [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) | Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue) | Python | 61226 | 291 |
+| [![black-forest-labs](https://avatars.githubusercontent.com/u/37085732?s=40&v=4)](https://github.com/black-forest-labs) | [black-forest-labs/flux](https://github.com/black-forest-labs/flux) | Official inference repo for FLUX.1 models | Python | 17286 | 536 |
+| [![abi](https://avatars.githubusercontent.com/u/23818?s=40&v=4)](https://github.com/abi) | [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) | Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue) | Python | 61227 | 291 |
 | [![danswer-ai](https://avatars.githubusercontent.com/u/25087905?s=40&v=4)](https://github.com/danswer-ai) | [danswer-ai/danswer](https://github.com/danswer-ai/danswer) | Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge. | Python | 10780 | 28 |
 | [![lllyasviel](https://avatars.githubusercontent.com/u/19834515?s=40&v=4)](https://github.com/lllyasviel) | [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) | Focus on prompting and generating | Python | 41608 | 20 |
 | [![comfyanonymous](https://avatars.githubusercontent.com/u/121283862?s=40&v=4)](https://github.com/comfyanonymous) | [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. | Python | 57729 | 81 |
