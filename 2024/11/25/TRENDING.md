@@ -1,11 +1,11 @@
 # 🔥 Trending GitHub Repositories
 
-Updated on: **Mon, 25 Nov 2024 06:01:03 GMT**
+Updated on: **Mon, 25 Nov 2024 06:01:22 GMT**
 
 | Author | Repository | Description | Language | ⭐ Total Stars | 🌟 Stars Today |
 |--------|------------|-------------|----------|----------------|----------------|
 | [![black-forest-labs](https://avatars.githubusercontent.com/u/37085732?s=40&v=4)](https://github.com/black-forest-labs) | [black-forest-labs/flux](https://github.com/black-forest-labs/flux) | Official inference repo for FLUX.1 models | Python | 17252 | 536 |
-| [![abi](https://avatars.githubusercontent.com/u/23818?s=40&v=4)](https://github.com/abi) | [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) | Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue) | Python | 61197 | 291 |
+| [![abi](https://avatars.githubusercontent.com/u/23818?s=40&v=4)](https://github.com/abi) | [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) | Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue) | Python | 61198 | 291 |
 | [![gitroomhq](https://avatars.githubusercontent.com/u/2025715?s=40&v=4)](https://github.com/gitroomhq) | [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | 📨 The ultimate social media scheduling tool, with a bunch of AI 🤖 | TypeScript | 11306 | 294 |
 | [![EbookFoundation](https://avatars.githubusercontent.com/u/2022803?s=40&v=4)](https://github.com/EbookFoundation) | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books | HTML | 339365 | 220 |
 | [![krahets](https://avatars.githubusercontent.com/u/26993056?s=40&v=4)](https://github.com/krahets) | [krahets/hello-algo](https://github.com/krahets/hello-algo) | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing | Java | 100039 | 123 |
