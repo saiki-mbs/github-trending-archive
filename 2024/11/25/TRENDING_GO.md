@@ -1,12 +1,12 @@
 # 🔥 Trending go GitHub Repositories
 
-Updated on: **Mon, 25 Nov 2024 07:07:19 GMT**
+Updated on: **Mon, 25 Nov 2024 07:13:28 GMT**
 
 | Author | Repository | Description | Language | ⭐ Total Stars | 🌟 Stars Today |
 |--------|------------|-------------|----------|----------------|----------------|
 | [![tmc](https://avatars.githubusercontent.com/u/3977?s=40&v=4)](https://github.com/tmc) | [tmc/langchaingo](https://github.com/tmc/langchaingo) | LangChain for Go, the easiest way to write LLM-based programs in Go | Go | 4944 | 11 |
 | [![yorukot](https://avatars.githubusercontent.com/u/107802416?s=40&v=4)](https://github.com/yorukot) | [yorukot/superfile](https://github.com/yorukot/superfile) | Pretty fancy and modern terminal file manager | Go | 7638 | 45 |
-| [![ollama](https://avatars.githubusercontent.com/u/2372640?s=40&v=4)](https://github.com/ollama) | [ollama/ollama](https://github.com/ollama/ollama) | Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models. | Go | 99246 | 135 |
+| [![ollama](https://avatars.githubusercontent.com/u/2372640?s=40&v=4)](https://github.com/ollama) | [ollama/ollama](https://github.com/ollama/ollama) | Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models. | Go | 99247 | 135 |
 | [![daytonaio](https://avatars.githubusercontent.com/u/25279767?s=40&v=4)](https://github.com/daytonaio) | [daytonaio/daytona](https://github.com/daytonaio/daytona) | The Open Source Dev Environment Manager. | Go | 11875 | 142 |
 | [![SagerNet](https://avatars.githubusercontent.com/u/56506714?s=40&v=4)](https://github.com/SagerNet) | [SagerNet/sing-box](https://github.com/SagerNet/sing-box) | The universal proxy platform | Go | 20209 | 23 |
 | [![Melkeydev](https://avatars.githubusercontent.com/u/53410236?s=40&v=4)](https://github.com/Melkeydev) | [Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint) | Go-blueprint allows users to spin up a quick Go project using a popular framework | Go | 5439 | 82 |

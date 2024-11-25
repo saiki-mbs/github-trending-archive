@@ -1,10 +1,10 @@
 # 🔥 Trending rust GitHub Repositories
 
-Updated on: **Mon, 25 Nov 2024 07:07:21 GMT**
+Updated on: **Mon, 25 Nov 2024 07:13:31 GMT**
 
 | Author | Repository | Description | Language | ⭐ Total Stars | 🌟 Stars Today |
 |--------|------------|-------------|----------|----------------|----------------|
-| [![surrealdb](https://avatars.githubusercontent.com/u/1588290?s=40&v=4)](https://github.com/surrealdb) | [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) | A scalable, distributed, collaborative, document-graph database, for the realtime web | Rust | 27874 | 27 |
+| [![surrealdb](https://avatars.githubusercontent.com/u/1588290?s=40&v=4)](https://github.com/surrealdb) | [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) | A scalable, distributed, collaborative, document-graph database, for the realtime web | Rust | 27875 | 27 |
 | [![mediar-ai](https://avatars.githubusercontent.com/u/25003283?s=40&v=4)](https://github.com/mediar-ai) | [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) | rewind.ai x cursor.com = your AI assistant that has all the context. 24/7 screen & voice recording for the age of super intelligence. get your data ready or be left behind | Rust | 10087 | 252 |
 | [![Snowiiii](https://avatars.githubusercontent.com/u/71594357?s=40&v=4)](https://github.com/Snowiiii) | [Snowiiii/Pumpkin](https://github.com/Snowiiii/Pumpkin) | Empowering everyone to host fast and efficient Minecraft servers. | Rust | 3292 | 22 |
 | [![rust-lang](https://avatars.githubusercontent.com/u/3372342?s=40&v=4)](https://github.com/rust-lang) | [rust-lang/rust](https://github.com/rust-lang/rust) | Empowering everyone to build reliable and efficient software. | Rust | 98838 | 30 |
