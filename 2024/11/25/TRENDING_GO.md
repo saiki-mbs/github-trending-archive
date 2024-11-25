@@ -1,6 +1,6 @@
 # 🔥 Trending go GitHub Repositories
 
-Updated on: **Mon, 25 Nov 2024 06:54:42 GMT**
+Updated on: **Mon, 25 Nov 2024 07:07:19 GMT**
 
 | Author | Repository | Description | Language | ⭐ Total Stars | 🌟 Stars Today |
 |--------|------------|-------------|----------|----------------|----------------|
@@ -12,7 +12,7 @@ Updated on: **Mon, 25 Nov 2024 06:54:42 GMT**
 | [![Melkeydev](https://avatars.githubusercontent.com/u/53410236?s=40&v=4)](https://github.com/Melkeydev) | [Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint) | Go-blueprint allows users to spin up a quick Go project using a popular framework | Go | 5439 | 82 |
 | [![jesseduffield](https://avatars.githubusercontent.com/u/8456633?s=40&v=4)](https://github.com/jesseduffield) | [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) | The lazier way to manage everything docker | Go | 37721 | 96 |
 | [![XTLS](https://avatars.githubusercontent.com/u/63339210?s=40&v=4)](https://github.com/XTLS) | [XTLS/Xray-core](https://github.com/XTLS/Xray-core) | Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration. | Go | 25757 | 23 |
-| [![zeromicro](https://avatars.githubusercontent.com/u/1918356?s=40&v=4)](https://github.com/zeromicro) | [zeromicro/go-zero](https://github.com/zeromicro/go-zero) | A cloud-native Go microservices framework with cli tool for productivity. | Go | 29364 | 9 |
+| [![zeromicro](https://avatars.githubusercontent.com/u/1918356?s=40&v=4)](https://github.com/zeromicro) | [zeromicro/go-zero](https://github.com/zeromicro/go-zero) | A cloud-native Go microservices framework with cli tool for productivity. | Go | 29365 | 9 |
 | [![evcc-io](https://avatars.githubusercontent.com/u/184815?s=40&v=4)](https://github.com/evcc-io) | [evcc-io/evcc](https://github.com/evcc-io/evcc) | Solar Charging ☀️🚘 | Go | 3636 | 1 |
 | [![superseriousbusiness](https://avatars.githubusercontent.com/u/31960611?s=40&v=4)](https://github.com/superseriousbusiness) | [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) | Fast, fun, small ActivityPub server. | Go | 3845 | 7 |
 | [![casdoor](https://avatars.githubusercontent.com/u/3787410?s=40&v=4)](https://github.com/casdoor) | [casdoor/casdoor](https://github.com/casdoor/casdoor) | An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos | Go | 10365 | 62 |
