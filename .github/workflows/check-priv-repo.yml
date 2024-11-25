@@ -8,6 +8,8 @@ on:
 jobs:
   check-status:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -29,10 +31,11 @@ jobs:
           sed -i 's|<img src="https://github.com/saiki-mbs/github-trending-tracker/workflows/Update%20Trending%20Repositories/badge.svg" alt="Build Status">|<img src="https://img.shields.io/badge/build-'"${{ steps.check.outputs.status }}"'-'"${{ steps.check.outputs.status == 'success' && 'brightgreen' || 'red' }}"'" alt="Build Status">|g' README.md
         
       - name: Commit changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update status badge"
-          git push
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update status badge" && git push origin HEAD:${GITHUB_REF})
 
