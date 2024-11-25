@@ -1,14 +1,14 @@
 # 🔥 Trending java GitHub Repositories
 
-Updated on: **Mon, 25 Nov 2024 06:26:54 GMT**
+Updated on: **Mon, 25 Nov 2024 06:33:17 GMT**
 
 | Author | Repository | Description | Language | ⭐ Total Stars | 🌟 Stars Today |
 |--------|------------|-------------|----------|----------------|----------------|
-| [![krahets](https://avatars.githubusercontent.com/u/26993056?s=40&v=4)](https://github.com/krahets) | [krahets/hello-algo](https://github.com/krahets/hello-algo) | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing | Java | 100050 | 123 |
-| [![gunnarmorling](https://avatars.githubusercontent.com/u/28612?s=40&v=4)](https://github.com/gunnarmorling) | [gunnarmorling/1brc](https://github.com/gunnarmorling/1brc) | 1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java | Java | 6432 | 12 |
+| [![krahets](https://avatars.githubusercontent.com/u/26993056?s=40&v=4)](https://github.com/krahets) | [krahets/hello-algo](https://github.com/krahets/hello-algo) | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing | Java | 100054 | 123 |
+| [![gunnarmorling](https://avatars.githubusercontent.com/u/28612?s=40&v=4)](https://github.com/gunnarmorling) | [gunnarmorling/1brc](https://github.com/gunnarmorling/1brc) | 1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java | Java | 6433 | 12 |
 | [![termux](https://avatars.githubusercontent.com/u/31106828?s=40&v=4)](https://github.com/termux) | [termux/termux-app](https://github.com/termux/termux-app) | Termux - a terminal emulator application for Android OS extendible by variety of packages. | Java | 36708 | 28 |
 | [![PaperMC](https://avatars.githubusercontent.com/u/58008?s=40&v=4)](https://github.com/PaperMC) | [PaperMC/Paper](https://github.com/PaperMC/Paper) | The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies | Java | 10035 | 3 |
-| [![yuliskov](https://avatars.githubusercontent.com/u/5897464?s=40&v=4)](https://github.com/yuliskov) | [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) | SmartTube - an advanced player for set-top boxes and tvs running Android OS | Java | 20026 | 22 |
+| [![yuliskov](https://avatars.githubusercontent.com/u/5897464?s=40&v=4)](https://github.com/yuliskov) | [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) | SmartTube - an advanced player for set-top boxes and tvs running Android OS | Java | 20027 | 22 |
 | [![Anuken](https://avatars.githubusercontent.com/u/10100000?s=40&v=4)](https://github.com/Anuken) | [Anuken/Mindustry](https://github.com/Anuken/Mindustry) | The automation tower defense RTS | Java | 22810 | 8 |
 | [![runelite](https://avatars.githubusercontent.com/u/309739?s=40&v=4)](https://github.com/runelite) | [runelite/runelite](https://github.com/runelite/runelite) | Open source Old School RuneScape client | Java | 4826 | 1 |
 | [![DrKLO](https://avatars.githubusercontent.com/u/7038595?s=40&v=4)](https://github.com/DrKLO) | [DrKLO/Telegram](https://github.com/DrKLO/Telegram) | Telegram for Android source | Java | 25299 | 7 |

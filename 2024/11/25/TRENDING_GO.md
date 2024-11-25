@@ -1,16 +1,16 @@
 # 🔥 Trending go GitHub Repositories
 
-Updated on: **Mon, 25 Nov 2024 06:26:58 GMT**
+Updated on: **Mon, 25 Nov 2024 06:33:23 GMT**
 
 | Author | Repository | Description | Language | ⭐ Total Stars | 🌟 Stars Today |
 |--------|------------|-------------|----------|----------------|----------------|
 | [![tmc](https://avatars.githubusercontent.com/u/3977?s=40&v=4)](https://github.com/tmc) | [tmc/langchaingo](https://github.com/tmc/langchaingo) | LangChain for Go, the easiest way to write LLM-based programs in Go | Go | 4939 | 11 |
 | [![yorukot](https://avatars.githubusercontent.com/u/107802416?s=40&v=4)](https://github.com/yorukot) | [yorukot/superfile](https://github.com/yorukot/superfile) | Pretty fancy and modern terminal file manager | Go | 7637 | 45 |
-| [![ollama](https://avatars.githubusercontent.com/u/2372640?s=40&v=4)](https://github.com/ollama) | [ollama/ollama](https://github.com/ollama/ollama) | Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models. | Go | 99237 | 135 |
-| [![daytonaio](https://avatars.githubusercontent.com/u/25279767?s=40&v=4)](https://github.com/daytonaio) | [daytonaio/daytona](https://github.com/daytonaio/daytona) | The Open Source Dev Environment Manager. | Go | 11873 | 142 |
+| [![ollama](https://avatars.githubusercontent.com/u/2372640?s=40&v=4)](https://github.com/ollama) | [ollama/ollama](https://github.com/ollama/ollama) | Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models. | Go | 99238 | 135 |
+| [![daytonaio](https://avatars.githubusercontent.com/u/25279767?s=40&v=4)](https://github.com/daytonaio) | [daytonaio/daytona](https://github.com/daytonaio/daytona) | The Open Source Dev Environment Manager. | Go | 11874 | 142 |
 | [![SagerNet](https://avatars.githubusercontent.com/u/56506714?s=40&v=4)](https://github.com/SagerNet) | [SagerNet/sing-box](https://github.com/SagerNet/sing-box) | The universal proxy platform | Go | 20208 | 23 |
 | [![Melkeydev](https://avatars.githubusercontent.com/u/53410236?s=40&v=4)](https://github.com/Melkeydev) | [Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint) | Go-blueprint allows users to spin up a quick Go project using a popular framework | Go | 5439 | 82 |
-| [![jesseduffield](https://avatars.githubusercontent.com/u/8456633?s=40&v=4)](https://github.com/jesseduffield) | [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) | The lazier way to manage everything docker | Go | 37718 | 96 |
+| [![jesseduffield](https://avatars.githubusercontent.com/u/8456633?s=40&v=4)](https://github.com/jesseduffield) | [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) | The lazier way to manage everything docker | Go | 37720 | 96 |
 | [![XTLS](https://avatars.githubusercontent.com/u/63339210?s=40&v=4)](https://github.com/XTLS) | [XTLS/Xray-core](https://github.com/XTLS/Xray-core) | Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration. | Go | 25757 | 23 |
 | [![zeromicro](https://avatars.githubusercontent.com/u/1918356?s=40&v=4)](https://github.com/zeromicro) | [zeromicro/go-zero](https://github.com/zeromicro/go-zero) | A cloud-native Go microservices framework with cli tool for productivity. | Go | 29364 | 9 |
 | [![evcc-io](https://avatars.githubusercontent.com/u/184815?s=40&v=4)](https://github.com/evcc-io) | [evcc-io/evcc](https://github.com/evcc-io/evcc) | Solar Charging ☀️🚘 | Go | 3636 | 1 |
