@@ -1,12 +1,12 @@
 # 🔥 Trending cpp GitHub Repositories
 
-Updated on: **Mon, 25 Nov 2024 06:44:35 GMT**
+Updated on: **Mon, 25 Nov 2024 06:47:07 GMT**
 
 | Author | Repository | Description | Language | ⭐ Total Stars | 🌟 Stars Today |
 |--------|------------|-------------|----------|----------------|----------------|
-| [![shader-slang](https://avatars.githubusercontent.com/u/2652293?s=40&v=4)](https://github.com/shader-slang) | [shader-slang/slang](https://github.com/shader-slang/slang) | Making it easier to work with shaders | C++ | 2819 | 139 |
+| [![shader-slang](https://avatars.githubusercontent.com/u/2652293?s=40&v=4)](https://github.com/shader-slang) | [shader-slang/slang](https://github.com/shader-slang/slang) | Making it easier to work with shaders | C++ | 2820 | 139 |
 | [![RPCS3](https://avatars.githubusercontent.com/u/23019877?s=40&v=4)](https://github.com/RPCS3) | [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) | PlayStation 3 emulator and debugger | C++ | 15611 | 3 |
-| [![justcallmekoko](https://avatars.githubusercontent.com/u/25190487?s=40&v=4)](https://github.com/justcallmekoko) | [justcallmekoko/ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) | A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32 | C++ | 5976 | 8 |
+| [![justcallmekoko](https://avatars.githubusercontent.com/u/25190487?s=40&v=4)](https://github.com/justcallmekoko) | [justcallmekoko/ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) | A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32 | C++ | 5977 | 8 |
 | [![minetest](https://avatars.githubusercontent.com/u/115571?s=40&v=4)](https://github.com/minetest) | [minetest/minetest](https://github.com/minetest/minetest) | Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation | C++ | 10843 | 7 |
 | [![CleverRaven](https://avatars.githubusercontent.com/u/16213433?s=40&v=4)](https://github.com/CleverRaven) | [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) | Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world. | C++ | 10676 | 6 |
 | [![ocornut](https://avatars.githubusercontent.com/u/8225057?s=40&v=4)](https://github.com/ocornut) | [ocornut/imgui](https://github.com/ocornut/imgui) | Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies | C++ | 61345 | 23 |
@@ -25,6 +25,6 @@ Updated on: **Mon, 25 Nov 2024 06:44:35 GMT**
 | [![hrydgard](https://avatars.githubusercontent.com/u/130929?s=40&v=4)](https://github.com/hrydgard) | [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp) | A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the forums at forums.ppsspp.org. | C++ | 11419 | 5 |
 | [![jrouwe](https://avatars.githubusercontent.com/u/1621693?s=40&v=4)](https://github.com/jrouwe) | [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics) | A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West. | C++ | 6820 | 10 |
 | [![yhirose](https://avatars.githubusercontent.com/u/357397?s=40&v=4)](https://github.com/yhirose) | [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) | A C++ header-only HTTP/HTTPS server and client library | C++ | 13177 | 4 |
-| [![godotengine](https://avatars.githubusercontent.com/u/4701338?s=40&v=4)](https://github.com/godotengine) | [godotengine/godot](https://github.com/godotengine/godot) | Godot Engine – Multi-platform 2D and 3D game engine | C++ | 91364 | 27 |
+| [![godotengine](https://avatars.githubusercontent.com/u/4701338?s=40&v=4)](https://github.com/godotengine) | [godotengine/godot](https://github.com/godotengine/godot) | Godot Engine – Multi-platform 2D and 3D game engine | C++ | 91363 | 27 |
 | [![esphome](https://avatars.githubusercontent.com/u/3060199?s=40&v=4)](https://github.com/esphome) | [esphome/esphome](https://github.com/esphome/esphome) | ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems. | C++ | 8563 | 4 |
 | [![azerothcore](https://avatars.githubusercontent.com/u/80540499?s=40&v=4)](https://github.com/azerothcore) | [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk) | Complete Open Source and Modular solution for MMO | C++ | 6603 | 4 |
