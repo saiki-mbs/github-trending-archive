@@ -1,18 +1,18 @@
 # 🔥 Trending cpp GitHub Repositories
 
-Updated on: **Mon, 25 Nov 2024 06:17:45 GMT**
+Updated on: **Mon, 25 Nov 2024 06:26:55 GMT**
 
 | Author | Repository | Description | Language | ⭐ Total Stars | 🌟 Stars Today |
 |--------|------------|-------------|----------|----------------|----------------|
-| [![shader-slang](https://avatars.githubusercontent.com/u/2652293?s=40&v=4)](https://github.com/shader-slang) | [shader-slang/slang](https://github.com/shader-slang/slang) | Making it easier to work with shaders | C++ | 2817 | 139 |
-| [![RPCS3](https://avatars.githubusercontent.com/u/23019877?s=40&v=4)](https://github.com/RPCS3) | [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) | PlayStation 3 emulator and debugger | C++ | 15605 | 3 |
+| [![shader-slang](https://avatars.githubusercontent.com/u/2652293?s=40&v=4)](https://github.com/shader-slang) | [shader-slang/slang](https://github.com/shader-slang/slang) | Making it easier to work with shaders | C++ | 2818 | 139 |
+| [![RPCS3](https://avatars.githubusercontent.com/u/23019877?s=40&v=4)](https://github.com/RPCS3) | [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) | PlayStation 3 emulator and debugger | C++ | 15607 | 3 |
 | [![justcallmekoko](https://avatars.githubusercontent.com/u/25190487?s=40&v=4)](https://github.com/justcallmekoko) | [justcallmekoko/ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) | A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32 | C++ | 5975 | 8 |
 | [![minetest](https://avatars.githubusercontent.com/u/115571?s=40&v=4)](https://github.com/minetest) | [minetest/minetest](https://github.com/minetest/minetest) | Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation | C++ | 10843 | 7 |
 | [![CleverRaven](https://avatars.githubusercontent.com/u/16213433?s=40&v=4)](https://github.com/CleverRaven) | [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) | Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world. | C++ | 10676 | 6 |
 | [![ocornut](https://avatars.githubusercontent.com/u/8225057?s=40&v=4)](https://github.com/ocornut) | [ocornut/imgui](https://github.com/ocornut/imgui) | Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies | C++ | 61345 | 23 |
 | [![MarlinFirmware](https://avatars.githubusercontent.com/u/698003?s=40&v=4)](https://github.com/MarlinFirmware) | [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) | Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine. | C++ | 16329 | 4 |
 | [![PrismLauncher](https://avatars.githubusercontent.com/u/203326?s=40&v=4)](https://github.com/PrismLauncher) | [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) | A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC) | C++ | 5857 | 7 |
-| [![qbittorrent](https://avatars.githubusercontent.com/u/9395168?s=40&v=4)](https://github.com/qbittorrent) | [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) | qBittorrent BitTorrent client | C++ | 28521 | 20 |
+| [![qbittorrent](https://avatars.githubusercontent.com/u/9395168?s=40&v=4)](https://github.com/qbittorrent) | [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) | qBittorrent BitTorrent client | C++ | 28522 | 20 |
 | [![dolphin-emu](https://avatars.githubusercontent.com/u/712067?s=40&v=4)](https://github.com/dolphin-emu) | [dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin) | Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements. | C++ | 13090 | 4 |
 | [![sogou](https://avatars.githubusercontent.com/u/52160700?s=40&v=4)](https://github.com/sogou) | [sogou/workflow](https://github.com/sogou/workflow) | C++ Parallel Computing and Asynchronous Networking Framework | C++ | 13165 | 3 |
 | [![filecxx](https://avatars.githubusercontent.com/u/100348948?s=40&v=4)](https://github.com/filecxx) | [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) | Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos. WebDAV client, FTP client, SSH client. | C++ | 9183 | 17 |
