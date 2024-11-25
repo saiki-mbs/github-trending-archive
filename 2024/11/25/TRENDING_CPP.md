@@ -1,12 +1,12 @@
 # 🔥 Trending cpp GitHub Repositories
 
-Updated on: **Mon, 25 Nov 2024 07:13:24 GMT**
+Updated on: **Mon, 25 Nov 2024 07:18:56 GMT**
 
 | Author | Repository | Description | Language | ⭐ Total Stars | 🌟 Stars Today |
 |--------|------------|-------------|----------|----------------|----------------|
-| [![shader-slang](https://avatars.githubusercontent.com/u/2652293?s=40&v=4)](https://github.com/shader-slang) | [shader-slang/slang](https://github.com/shader-slang/slang) | Making it easier to work with shaders | C++ | 2824 | 139 |
+| [![shader-slang](https://avatars.githubusercontent.com/u/2652293?s=40&v=4)](https://github.com/shader-slang) | [shader-slang/slang](https://github.com/shader-slang/slang) | Making it easier to work with shaders | C++ | 2826 | 139 |
 | [![RPCS3](https://avatars.githubusercontent.com/u/23019877?s=40&v=4)](https://github.com/RPCS3) | [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) | PlayStation 3 emulator and debugger | C++ | 15612 | 3 |
-| [![justcallmekoko](https://avatars.githubusercontent.com/u/25190487?s=40&v=4)](https://github.com/justcallmekoko) | [justcallmekoko/ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) | A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32 | C++ | 5983 | 8 |
+| [![justcallmekoko](https://avatars.githubusercontent.com/u/25190487?s=40&v=4)](https://github.com/justcallmekoko) | [justcallmekoko/ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) | A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32 | C++ | 5984 | 8 |
 | [![minetest](https://avatars.githubusercontent.com/u/115571?s=40&v=4)](https://github.com/minetest) | [minetest/minetest](https://github.com/minetest/minetest) | Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation | C++ | 10843 | 7 |
 | [![CleverRaven](https://avatars.githubusercontent.com/u/16213433?s=40&v=4)](https://github.com/CleverRaven) | [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) | Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world. | C++ | 10676 | 6 |
 | [![ocornut](https://avatars.githubusercontent.com/u/8225057?s=40&v=4)](https://github.com/ocornut) | [ocornut/imgui](https://github.com/ocornut/imgui) | Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies | C++ | 61347 | 23 |

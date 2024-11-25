@@ -1,8 +1,8 @@
 <div align="center">
 <h1>GitHub Trending Repositories Archive</h1>
 <p>Daily and weekly snapshots of GitHub's most popular repositories</p>
-
-<img src="https://img.shields.io/badge/build-success-brightgreen" alt="Build Status">
+<a href="https://github.com/saiki-mbs/github-trending-archive/actions">
+<img src="https://github.com/saiki-mbs/github-trending-tracker/workflows/Update%20Trending%20Repositories/badge.svg" alt="Build Status">
 </div>
 
 <div align="center">
@@ -77,4 +77,4 @@ This project automatically archives GitHub's trending repositories every day at 
 
 ---
 
-Last updated: Mon, 25 Nov 2024 07:13:16 GMT
+Last updated: Mon, 25 Nov 2024 07:18:45 GMT

@@ -1,11 +1,11 @@
 # 🔥 Trending javascript GitHub Repositories
 
-Updated on: **Mon, 25 Nov 2024 07:13:19 GMT**
+Updated on: **Mon, 25 Nov 2024 07:18:49 GMT**
 
 | Author | Repository | Description | Language | ⭐ Total Stars | 🌟 Stars Today |
 |--------|------------|-------------|----------|----------------|----------------|
 | [![gorhill](https://avatars.githubusercontent.com/u/585534?s=40&v=4)](https://github.com/gorhill) | [gorhill/uBlock](https://github.com/gorhill/uBlock) | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. | JavaScript | 47602 | 18 |
-| [![7Sageer](https://avatars.githubusercontent.com/u/125936732?s=40&v=4)](https://github.com/7Sageer) | [7Sageer/sublink-worker](https://github.com/7Sageer/sublink-worker) | 无需服务器，一键部署，快速使用自建节点分享URL进行订阅转换，提供灵活的自定义选项，支持SingBox/Clash/V2Ray/Xray | JavaScript | 846 | 13 |
+| [![7Sageer](https://avatars.githubusercontent.com/u/125936732?s=40&v=4)](https://github.com/7Sageer) | [7Sageer/sublink-worker](https://github.com/7Sageer/sublink-worker) | 无需服务器，一键部署，快速使用自建节点分享URL进行订阅转换，提供灵活的自定义选项，支持SingBox/Clash/V2Ray/Xray | JavaScript | 847 | 13 |
 | [![zizifn](https://avatars.githubusercontent.com/u/1803942?s=40&v=4)](https://github.com/zizifn) | [zizifn/edgetunnel](https://github.com/zizifn/edgetunnel) | Running V2ray inside edge/serverless runtime | JavaScript | 7183 | 15 |
 | [![koodo-reader](https://avatars.githubusercontent.com/u/13820674?s=40&v=4)](https://github.com/koodo-reader) | [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) | A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web | JavaScript | 19237 | 55 |
 | [![FortAwesome](https://avatars.githubusercontent.com/u/132895?s=40&v=4)](https://github.com/FortAwesome) | [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) | The iconic SVG, font, and CSS toolkit | JavaScript | 74090 | 115 |
