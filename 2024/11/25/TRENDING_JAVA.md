@@ -1,10 +1,10 @@
 # 🔥 Trending java GitHub Repositories
 
-Updated on: **Mon, 25 Nov 2024 07:28:47 GMT**
+Updated on: **Mon, 25 Nov 2024 07:37:02 GMT**
 
 | Author | Repository | Description | Language | ⭐ Total Stars | 🌟 Stars Today |
 |--------|------------|-------------|----------|----------------|----------------|
-| [![krahets](https://avatars.githubusercontent.com/u/26993056?s=40&v=4)](https://github.com/krahets) | [krahets/hello-algo](https://github.com/krahets/hello-algo) | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing | Java | 100068 | 123 |
+| [![krahets](https://avatars.githubusercontent.com/u/26993056?s=40&v=4)](https://github.com/krahets) | [krahets/hello-algo](https://github.com/krahets/hello-algo) | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing | Java | 100073 | 123 |
 | [![gunnarmorling](https://avatars.githubusercontent.com/u/28612?s=40&v=4)](https://github.com/gunnarmorling) | [gunnarmorling/1brc](https://github.com/gunnarmorling/1brc) | 1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java | Java | 6436 | 12 |
 | [![termux](https://avatars.githubusercontent.com/u/31106828?s=40&v=4)](https://github.com/termux) | [termux/termux-app](https://github.com/termux/termux-app) | Termux - a terminal emulator application for Android OS extendible by variety of packages. | Java | 36709 | 28 |
 | [![PaperMC](https://avatars.githubusercontent.com/u/58008?s=40&v=4)](https://github.com/PaperMC) | [PaperMC/Paper](https://github.com/PaperMC/Paper) | The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies | Java | 10035 | 3 |

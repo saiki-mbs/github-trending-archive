@@ -1,6 +1,6 @@
 # 🔥 Trending javascript GitHub Repositories
 
-Updated on: **Mon, 25 Nov 2024 07:28:44 GMT**
+Updated on: **Mon, 25 Nov 2024 07:36:59 GMT**
 
 | Author | Repository | Description | Language | ⭐ Total Stars | 🌟 Stars Today |
 |--------|------------|-------------|----------|----------------|----------------|
@@ -12,6 +12,6 @@ Updated on: **Mon, 25 Nov 2024 07:28:44 GMT**
 | [![meshery](https://avatars.githubusercontent.com/u/7570704?s=40&v=4)](https://github.com/meshery) | [meshery/meshery](https://github.com/meshery/meshery) | Meshery, the cloud native manager | JavaScript | 6266 | 12 |
 | [![TheBeastLT](https://avatars.githubusercontent.com/u/39882951?s=40&v=4)](https://github.com/TheBeastLT) | [TheBeastLT/torrentio-scraper](https://github.com/TheBeastLT/torrentio-scraper) | No description | JavaScript | 890 | 13 |
 | [![prettier](https://avatars.githubusercontent.com/u/172584?s=40&v=4)](https://github.com/prettier) | [prettier/prettier](https://github.com/prettier/prettier) | Prettier is an opinionated code formatter. | JavaScript | 49505 | 9 |
-| [![CodeWithHarry](https://avatars.githubusercontent.com/u/48705673?s=40&v=4)](https://github.com/CodeWithHarry) | [CodeWithHarry/Sigma-Web-Dev-Course](https://github.com/CodeWithHarry/Sigma-Web-Dev-Course) | Source Code for Sigma Web Development Course | JavaScript | 6317 | 8 |
+| [![CodeWithHarry](https://avatars.githubusercontent.com/u/48705673?s=40&v=4)](https://github.com/CodeWithHarry) | [CodeWithHarry/Sigma-Web-Dev-Course](https://github.com/CodeWithHarry/Sigma-Web-Dev-Course) | Source Code for Sigma Web Development Course | JavaScript | 6318 | 8 |
 | [![docmirror](https://avatars.githubusercontent.com/u/1687298?s=40&v=4)](https://github.com/docmirror) | [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar) | 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速 | JavaScript | 15632 | 19 |
 | [![cmliu](https://avatars.githubusercontent.com/u/24787744?s=40&v=4)](https://github.com/cmliu) | [cmliu/WorkerVless2sub](https://github.com/cmliu/WorkerVless2sub) | 这个是一个将 Cloudflare Workers - VLESS 搭配 自建优选域名 的 订阅生成器 | JavaScript | 3784 | 10 |
