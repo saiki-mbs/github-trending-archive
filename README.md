@@ -3,26 +3,26 @@
 <p>Daily and weekly snapshots of GitHub's most popular repositories</p>
 
 <a href="https://github.com/saiki-mbs/github-trending-tracker/actions">
-  <img src="https://github.com/saiki-mbs/github-trending-tracker/workflows/Update%20Trending%20Repositories/badge.svg" alt="Build Status">
+<img src="https://github.com/saiki-mbs/github-trending-tracker/workflows/Update%20Trending%20Repositories/badge.svg" alt="Build Status">
 </a>
 </div>
 
 <div align="center">
 <table>
-  <tr>
-    <td>
-      <a href="./2024/11/25/TRENDING.md">
-        <b>View Today's Trending Repositories →</b>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="./2024/11/weekly-5/TRENDING_WEEKLY.md">
-        <b>View Weekly Trending Repositories →</b>
-      </a>
-    </td>
-  </tr>
+<tr>
+  <td>
+    <a href="./2024/11/25/TRENDING.md">
+      <b>View Today's Trending Repositories →</b>
+    </a>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="./2024/11/weekly-5/TRENDING_WEEKLY.md">
+      <b>View Weekly Trending Repositories →</b>
+    </a>
+  </td>
+</tr>
 </table>
 </div>
 
@@ -79,4 +79,4 @@ This project automatically archives GitHub's trending repositories every day at 
 
 ---
 
-Last updated: Mon, 25 Nov 2024 01:13:32 GMT
+Last updated: Mon, 25 Nov 2024 04:20:19 GMT
