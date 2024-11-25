@@ -1,11 +1,11 @@
 # 🔥 Trending cpp GitHub Repositories
 
-Updated on: **Mon, 25 Nov 2024 06:33:19 GMT**
+Updated on: **Mon, 25 Nov 2024 06:37:10 GMT**
 
 | Author | Repository | Description | Language | ⭐ Total Stars | 🌟 Stars Today |
 |--------|------------|-------------|----------|----------------|----------------|
 | [![shader-slang](https://avatars.githubusercontent.com/u/2652293?s=40&v=4)](https://github.com/shader-slang) | [shader-slang/slang](https://github.com/shader-slang/slang) | Making it easier to work with shaders | C++ | 2818 | 139 |
-| [![RPCS3](https://avatars.githubusercontent.com/u/23019877?s=40&v=4)](https://github.com/RPCS3) | [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) | PlayStation 3 emulator and debugger | C++ | 15608 | 3 |
+| [![RPCS3](https://avatars.githubusercontent.com/u/23019877?s=40&v=4)](https://github.com/RPCS3) | [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) | PlayStation 3 emulator and debugger | C++ | 15609 | 3 |
 | [![justcallmekoko](https://avatars.githubusercontent.com/u/25190487?s=40&v=4)](https://github.com/justcallmekoko) | [justcallmekoko/ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) | A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32 | C++ | 5975 | 8 |
 | [![minetest](https://avatars.githubusercontent.com/u/115571?s=40&v=4)](https://github.com/minetest) | [minetest/minetest](https://github.com/minetest/minetest) | Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation | C++ | 10843 | 7 |
 | [![CleverRaven](https://avatars.githubusercontent.com/u/16213433?s=40&v=4)](https://github.com/CleverRaven) | [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) | Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world. | C++ | 10676 | 6 |
