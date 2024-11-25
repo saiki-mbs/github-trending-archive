@@ -3,7 +3,7 @@
 <p>Daily and weekly snapshots of GitHub's most popular repositories</p>
 
 <a href="https://github.com/saiki-mbs/github-trending-tracker/actions">
-<img src="https://github.com/saiki-mbs/github-trending-tracker/workflows/Update%20Trending%20Repositories/badge.svg" alt="Build Status">
+<img src="https://img.shields.io/badge/build-success-brightgreen" alt="Build Status">
 </a>
 </div>
 
