@@ -1,10 +1,10 @@
 # 🔥 Trending cpp GitHub Repositories
 
-Updated on: **Mon, 25 Nov 2024 06:47:07 GMT**
+Updated on: **Mon, 25 Nov 2024 06:51:52 GMT**
 
 | Author | Repository | Description | Language | ⭐ Total Stars | 🌟 Stars Today |
 |--------|------------|-------------|----------|----------------|----------------|
-| [![shader-slang](https://avatars.githubusercontent.com/u/2652293?s=40&v=4)](https://github.com/shader-slang) | [shader-slang/slang](https://github.com/shader-slang/slang) | Making it easier to work with shaders | C++ | 2820 | 139 |
+| [![shader-slang](https://avatars.githubusercontent.com/u/2652293?s=40&v=4)](https://github.com/shader-slang) | [shader-slang/slang](https://github.com/shader-slang/slang) | Making it easier to work with shaders | C++ | 2821 | 139 |
 | [![RPCS3](https://avatars.githubusercontent.com/u/23019877?s=40&v=4)](https://github.com/RPCS3) | [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) | PlayStation 3 emulator and debugger | C++ | 15611 | 3 |
 | [![justcallmekoko](https://avatars.githubusercontent.com/u/25190487?s=40&v=4)](https://github.com/justcallmekoko) | [justcallmekoko/ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) | A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32 | C++ | 5977 | 8 |
 | [![minetest](https://avatars.githubusercontent.com/u/115571?s=40&v=4)](https://github.com/minetest) | [minetest/minetest](https://github.com/minetest/minetest) | Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation | C++ | 10843 | 7 |
@@ -19,7 +19,7 @@ Updated on: **Mon, 25 Nov 2024 06:47:07 GMT**
 | [![official-stockfish](https://avatars.githubusercontent.com/u/4202567?s=40&v=4)](https://github.com/official-stockfish) | [official-stockfish/Stockfish](https://github.com/official-stockfish/Stockfish) | A free and strong UCI chess engine | C++ | 11702 | 11 |
 | [![FreeCAD](https://avatars.githubusercontent.com/u/7101741?s=40&v=4)](https://github.com/FreeCAD) | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. | C++ | 20945 | 160 |
 | [![PCSX2](https://avatars.githubusercontent.com/u/1569559?s=40&v=4)](https://github.com/PCSX2) | [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2) | PCSX2 - The Playstation 2 Emulator | C++ | 11871 | 8 |
-| [![stenzek](https://avatars.githubusercontent.com/u/11288319?s=40&v=4)](https://github.com/stenzek) | [stenzek/duckstation](https://github.com/stenzek/duckstation) | Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64 | C++ | 7664 | 6 |
+| [![stenzek](https://avatars.githubusercontent.com/u/11288319?s=40&v=4)](https://github.com/stenzek) | [stenzek/duckstation](https://github.com/stenzek/duckstation) | Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64 | C++ | 7665 | 6 |
 | [![taichi-dev](https://avatars.githubusercontent.com/u/6553256?s=40&v=4)](https://github.com/taichi-dev) | [taichi-dev/taichi](https://github.com/taichi-dev/taichi) | Productive, portable, and performant GPU programming in Python. | C++ | 25550 | 6 |
 | [![qinguoyi](https://avatars.githubusercontent.com/u/25760295?s=40&v=4)](https://github.com/qinguoyi) | [qinguoyi/TinyWebServer](https://github.com/qinguoyi/TinyWebServer) | 🔥 Linux下C++轻量级WebServer服务器 | C++ | 16908 | 10 |
 | [![hrydgard](https://avatars.githubusercontent.com/u/130929?s=40&v=4)](https://github.com/hrydgard) | [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp) | A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the forums at forums.ppsspp.org. | C++ | 11419 | 5 |

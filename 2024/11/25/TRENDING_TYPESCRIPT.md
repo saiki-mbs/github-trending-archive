@@ -1,14 +1,14 @@
 # 🔥 Trending typescript GitHub Repositories
 
-Updated on: **Mon, 25 Nov 2024 06:47:09 GMT**
+Updated on: **Mon, 25 Nov 2024 06:51:53 GMT**
 
 | Author | Repository | Description | Language | ⭐ Total Stars | 🌟 Stars Today |
 |--------|------------|-------------|----------|----------------|----------------|
-| [![gitroomhq](https://avatars.githubusercontent.com/u/2025715?s=40&v=4)](https://github.com/gitroomhq) | [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | 📨 The ultimate social media scheduling tool, with a bunch of AI 🤖 | TypeScript | 11323 | 294 |
-| [![pingcap](https://avatars.githubusercontent.com/u/12960671?s=40&v=4)](https://github.com/pingcap) | [pingcap/autoflow](https://github.com/pingcap/autoflow) | pingcap/autoflow is a Graph RAG based and conversational knowledge base tool built with TiDB Serverless Vector Storage. Demo: https://tidb.ai | TypeScript | 1456 | 194 |
+| [![gitroomhq](https://avatars.githubusercontent.com/u/2025715?s=40&v=4)](https://github.com/gitroomhq) | [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | 📨 The ultimate social media scheduling tool, with a bunch of AI 🤖 | TypeScript | 11325 | 294 |
+| [![pingcap](https://avatars.githubusercontent.com/u/12960671?s=40&v=4)](https://github.com/pingcap) | [pingcap/autoflow](https://github.com/pingcap/autoflow) | pingcap/autoflow is a Graph RAG based and conversational knowledge base tool built with TiDB Serverless Vector Storage. Demo: https://tidb.ai | TypeScript | 1457 | 194 |
 | [![ant-design](https://avatars.githubusercontent.com/u/5378891?s=40&v=4)](https://github.com/ant-design) | [ant-design/x](https://github.com/ant-design/x) | Craft AI-driven interfaces effortlessly 🤖 | TypeScript | 284 | 40 |
 | [![sst](https://avatars.githubusercontent.com/u/826656?s=40&v=4)](https://github.com/sst) | [sst/sst](https://github.com/sst/sst) | Build full-stack apps on your own infrastructure. | TypeScript | 22121 | 18 |
-| [![RSSNext](https://avatars.githubusercontent.com/u/41265413?s=40&v=4)](https://github.com/RSSNext) | [RSSNext/Follow](https://github.com/RSSNext/Follow) | 🧡 Follow your favorites in one inbox | TypeScript | 18057 | 226 |
+| [![RSSNext](https://avatars.githubusercontent.com/u/41265413?s=40&v=4)](https://github.com/RSSNext) | [RSSNext/Follow](https://github.com/RSSNext/Follow) | 🧡 Follow your favorites in one inbox | TypeScript | 18058 | 226 |
 | [![dream-num](https://avatars.githubusercontent.com/u/26371161?s=40&v=4)](https://github.com/dream-num) | [dream-num/univer](https://github.com/dream-num/univer) | Univer is an isomorphic full-stack framework for creating and editing spreadsheets, docs, and slides across client and server. | TypeScript | 7434 | 167 |
 | [![mastra-ai](https://avatars.githubusercontent.com/u/32024147?s=40&v=4)](https://github.com/mastra-ai) | [mastra-ai/mastra](https://github.com/mastra-ai/mastra) | The TypeScript AI framework. | TypeScript | 684 | 72 |
 | [![ghostfolio](https://avatars.githubusercontent.com/u/4159106?s=40&v=4)](https://github.com/ghostfolio) | [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) | Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍 | TypeScript | 4561 | 8 |
@@ -18,4 +18,4 @@ Updated on: **Mon, 25 Nov 2024 06:47:09 GMT**
 | [![BuilderIO](https://avatars.githubusercontent.com/u/844291?s=40&v=4)](https://github.com/BuilderIO) | [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) | Crawl a site to generate knowledge files to create your own custom GPT from a URL | TypeScript | 18923 | 14 |
 | [![DIYgod](https://avatars.githubusercontent.com/in/15368?s=40&v=4)](https://github.com/DIYgod) | [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) | 🧡 Everything is RSSible | TypeScript | 33834 | 29 |
 | [![ai16z](https://avatars.githubusercontent.com/u/18633264?s=40&v=4)](https://github.com/ai16z) | [ai16z/eliza](https://github.com/ai16z/eliza) | Conversational Agent for Twitter and Discord | TypeScript | 2106 | 70 |
-| [![caorushizi](https://avatars.githubusercontent.com/u/19359849?s=40&v=4)](https://github.com/caorushizi) | [caorushizi/mediago](https://github.com/caorushizi/mediago) | m3u8[m3u8-downloader] 视频在线提取工具 流媒体下载 、视频下载 、 m3u8下载 、 B站视频下载 桌面客户端 windows mac | TypeScript | 4756 | 20 |
+| [![caorushizi](https://avatars.githubusercontent.com/u/19359849?s=40&v=4)](https://github.com/caorushizi) | [caorushizi/mediago](https://github.com/caorushizi/mediago) | m3u8[m3u8-downloader] 视频在线提取工具 流媒体下载 、视频下载 、 m3u8下载 、 B站视频下载 桌面客户端 windows mac | TypeScript | 4757 | 20 |
