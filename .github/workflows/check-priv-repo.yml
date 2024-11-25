@@ -26,7 +26,9 @@ jobs:
 
       - name: Update README with status badge
         run: |
-          sed -i 's|<img src="https://github.com/saiki-mbs/github-trending-tracker/workflows/Update%20Trending%20Repositories/badge.svg" alt="Build Status">|<img src="https://img.shields.io/badge/build-${{ steps.check.outputs.status }}-${{ steps.check.outputs.status == '"'success'"' && '"'brightgreen'"' || '"'red'"' }}" alt="Build Status">|g' README.md
+          sed -i '
+            s|<img src="https://github.com/saiki-mbs/github-trending-tracker/workflows/Update%20Trending%20Repositories/badge.svg" alt="Build Status">|<img src="https://img.shields.io/badge/build-${{ steps.check.outputs.status }}-${{ steps.check.outputs.status == '\''success'\'' && '\''brightgreen'\'' || '\''red'\'' }}" alt="Build Status">|g
+          ' README.md
         
       - name: Commit changes
         run: |
