@@ -1,12 +1,12 @@
 # 🔥 Trending cpp GitHub Repositories
 
-Updated on: **Mon, 25 Nov 2024 06:37:10 GMT**
+Updated on: **Mon, 25 Nov 2024 06:44:35 GMT**
 
 | Author | Repository | Description | Language | ⭐ Total Stars | 🌟 Stars Today |
 |--------|------------|-------------|----------|----------------|----------------|
-| [![shader-slang](https://avatars.githubusercontent.com/u/2652293?s=40&v=4)](https://github.com/shader-slang) | [shader-slang/slang](https://github.com/shader-slang/slang) | Making it easier to work with shaders | C++ | 2818 | 139 |
-| [![RPCS3](https://avatars.githubusercontent.com/u/23019877?s=40&v=4)](https://github.com/RPCS3) | [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) | PlayStation 3 emulator and debugger | C++ | 15609 | 3 |
-| [![justcallmekoko](https://avatars.githubusercontent.com/u/25190487?s=40&v=4)](https://github.com/justcallmekoko) | [justcallmekoko/ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) | A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32 | C++ | 5975 | 8 |
+| [![shader-slang](https://avatars.githubusercontent.com/u/2652293?s=40&v=4)](https://github.com/shader-slang) | [shader-slang/slang](https://github.com/shader-slang/slang) | Making it easier to work with shaders | C++ | 2819 | 139 |
+| [![RPCS3](https://avatars.githubusercontent.com/u/23019877?s=40&v=4)](https://github.com/RPCS3) | [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) | PlayStation 3 emulator and debugger | C++ | 15611 | 3 |
+| [![justcallmekoko](https://avatars.githubusercontent.com/u/25190487?s=40&v=4)](https://github.com/justcallmekoko) | [justcallmekoko/ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) | A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32 | C++ | 5976 | 8 |
 | [![minetest](https://avatars.githubusercontent.com/u/115571?s=40&v=4)](https://github.com/minetest) | [minetest/minetest](https://github.com/minetest/minetest) | Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation | C++ | 10843 | 7 |
 | [![CleverRaven](https://avatars.githubusercontent.com/u/16213433?s=40&v=4)](https://github.com/CleverRaven) | [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) | Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world. | C++ | 10676 | 6 |
 | [![ocornut](https://avatars.githubusercontent.com/u/8225057?s=40&v=4)](https://github.com/ocornut) | [ocornut/imgui](https://github.com/ocornut/imgui) | Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies | C++ | 61345 | 23 |
@@ -15,8 +15,8 @@ Updated on: **Mon, 25 Nov 2024 06:37:10 GMT**
 | [![qbittorrent](https://avatars.githubusercontent.com/u/9395168?s=40&v=4)](https://github.com/qbittorrent) | [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) | qBittorrent BitTorrent client | C++ | 28522 | 20 |
 | [![dolphin-emu](https://avatars.githubusercontent.com/u/712067?s=40&v=4)](https://github.com/dolphin-emu) | [dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin) | Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements. | C++ | 13090 | 4 |
 | [![sogou](https://avatars.githubusercontent.com/u/52160700?s=40&v=4)](https://github.com/sogou) | [sogou/workflow](https://github.com/sogou/workflow) | C++ Parallel Computing and Asynchronous Networking Framework | C++ | 13165 | 3 |
-| [![filecxx](https://avatars.githubusercontent.com/u/100348948?s=40&v=4)](https://github.com/filecxx) | [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) | Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos. WebDAV client, FTP client, SSH client. | C++ | 9183 | 17 |
-| [![official-stockfish](https://avatars.githubusercontent.com/u/4202567?s=40&v=4)](https://github.com/official-stockfish) | [official-stockfish/Stockfish](https://github.com/official-stockfish/Stockfish) | A free and strong UCI chess engine | C++ | 11701 | 11 |
+| [![filecxx](https://avatars.githubusercontent.com/u/100348948?s=40&v=4)](https://github.com/filecxx) | [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) | Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos. WebDAV client, FTP client, SSH client. | C++ | 9184 | 17 |
+| [![official-stockfish](https://avatars.githubusercontent.com/u/4202567?s=40&v=4)](https://github.com/official-stockfish) | [official-stockfish/Stockfish](https://github.com/official-stockfish/Stockfish) | A free and strong UCI chess engine | C++ | 11702 | 11 |
 | [![FreeCAD](https://avatars.githubusercontent.com/u/7101741?s=40&v=4)](https://github.com/FreeCAD) | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. | C++ | 20945 | 160 |
 | [![PCSX2](https://avatars.githubusercontent.com/u/1569559?s=40&v=4)](https://github.com/PCSX2) | [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2) | PCSX2 - The Playstation 2 Emulator | C++ | 11871 | 8 |
 | [![stenzek](https://avatars.githubusercontent.com/u/11288319?s=40&v=4)](https://github.com/stenzek) | [stenzek/duckstation](https://github.com/stenzek/duckstation) | Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64 | C++ | 7664 | 6 |
