@@ -1,14 +1,14 @@
 # 🔥 Trending typescript GitHub Repositories
 
-Updated on: **Mon, 25 Nov 2024 07:18:57 GMT**
+Updated on: **Mon, 25 Nov 2024 07:28:52 GMT**
 
 | Author | Repository | Description | Language | ⭐ Total Stars | 🌟 Stars Today |
 |--------|------------|-------------|----------|----------------|----------------|
-| [![gitroomhq](https://avatars.githubusercontent.com/u/2025715?s=40&v=4)](https://github.com/gitroomhq) | [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | 📨 The ultimate social media scheduling tool, with a bunch of AI 🤖 | TypeScript | 11334 | 294 |
-| [![pingcap](https://avatars.githubusercontent.com/u/12960671?s=40&v=4)](https://github.com/pingcap) | [pingcap/autoflow](https://github.com/pingcap/autoflow) | pingcap/autoflow is a Graph RAG based and conversational knowledge base tool built with TiDB Serverless Vector Storage. Demo: https://tidb.ai | TypeScript | 1462 | 194 |
+| [![gitroomhq](https://avatars.githubusercontent.com/u/2025715?s=40&v=4)](https://github.com/gitroomhq) | [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | 📨 The ultimate social media scheduling tool, with a bunch of AI 🤖 | TypeScript | 11339 | 294 |
+| [![pingcap](https://avatars.githubusercontent.com/u/12960671?s=40&v=4)](https://github.com/pingcap) | [pingcap/autoflow](https://github.com/pingcap/autoflow) | pingcap/autoflow is a Graph RAG based and conversational knowledge base tool built with TiDB Serverless Vector Storage. Demo: https://tidb.ai | TypeScript | 1463 | 194 |
 | [![ant-design](https://avatars.githubusercontent.com/u/5378891?s=40&v=4)](https://github.com/ant-design) | [ant-design/x](https://github.com/ant-design/x) | Craft AI-driven interfaces effortlessly 🤖 | TypeScript | 287 | 40 |
 | [![sst](https://avatars.githubusercontent.com/u/826656?s=40&v=4)](https://github.com/sst) | [sst/sst](https://github.com/sst/sst) | Build full-stack apps on your own infrastructure. | TypeScript | 22122 | 18 |
-| [![RSSNext](https://avatars.githubusercontent.com/u/41265413?s=40&v=4)](https://github.com/RSSNext) | [RSSNext/Follow](https://github.com/RSSNext/Follow) | 🧡 Follow your favorites in one inbox | TypeScript | 18063 | 226 |
+| [![RSSNext](https://avatars.githubusercontent.com/u/41265413?s=40&v=4)](https://github.com/RSSNext) | [RSSNext/Follow](https://github.com/RSSNext/Follow) | 🧡 Follow your favorites in one inbox | TypeScript | 18068 | 226 |
 | [![dream-num](https://avatars.githubusercontent.com/u/26371161?s=40&v=4)](https://github.com/dream-num) | [dream-num/univer](https://github.com/dream-num/univer) | Univer is an isomorphic full-stack framework for creating and editing spreadsheets, docs, and slides across client and server. | TypeScript | 7435 | 167 |
 | [![mastra-ai](https://avatars.githubusercontent.com/u/32024147?s=40&v=4)](https://github.com/mastra-ai) | [mastra-ai/mastra](https://github.com/mastra-ai/mastra) | The TypeScript AI framework. | TypeScript | 685 | 72 |
 | [![ghostfolio](https://avatars.githubusercontent.com/u/4159106?s=40&v=4)](https://github.com/ghostfolio) | [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) | Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍 | TypeScript | 4561 | 8 |

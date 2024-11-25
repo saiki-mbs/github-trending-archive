@@ -1,10 +1,10 @@
 # 🔥 Trending rust GitHub Repositories
 
-Updated on: **Mon, 25 Nov 2024 07:19:01 GMT**
+Updated on: **Mon, 25 Nov 2024 07:28:56 GMT**
 
 | Author | Repository | Description | Language | ⭐ Total Stars | 🌟 Stars Today |
 |--------|------------|-------------|----------|----------------|----------------|
-| [![surrealdb](https://avatars.githubusercontent.com/u/1588290?s=40&v=4)](https://github.com/surrealdb) | [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) | A scalable, distributed, collaborative, document-graph database, for the realtime web | Rust | 27875 | 27 |
+| [![surrealdb](https://avatars.githubusercontent.com/u/1588290?s=40&v=4)](https://github.com/surrealdb) | [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) | A scalable, distributed, collaborative, document-graph database, for the realtime web | Rust | 27876 | 27 |
 | [![mediar-ai](https://avatars.githubusercontent.com/u/25003283?s=40&v=4)](https://github.com/mediar-ai) | [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) | rewind.ai x cursor.com = your AI assistant that has all the context. 24/7 screen & voice recording for the age of super intelligence. get your data ready or be left behind | Rust | 10088 | 252 |
 | [![Snowiiii](https://avatars.githubusercontent.com/u/71594357?s=40&v=4)](https://github.com/Snowiiii) | [Snowiiii/Pumpkin](https://github.com/Snowiiii/Pumpkin) | Empowering everyone to host fast and efficient Minecraft servers. | Rust | 3292 | 22 |
 | [![rust-lang](https://avatars.githubusercontent.com/u/3372342?s=40&v=4)](https://github.com/rust-lang) | [rust-lang/rust](https://github.com/rust-lang/rust) | Empowering everyone to build reliable and efficient software. | Rust | 98838 | 30 |
@@ -15,7 +15,7 @@ Updated on: **Mon, 25 Nov 2024 07:19:01 GMT**
 | [![gleam-lang](https://avatars.githubusercontent.com/u/6134406?s=40&v=4)](https://github.com/gleam-lang) | [gleam-lang/gleam](https://github.com/gleam-lang/gleam) | ⭐️ A friendly language for building type-safe, scalable systems! | Rust | 18087 | 10 |
 | [![rust-lang](https://avatars.githubusercontent.com/u/193874?s=40&v=4)](https://github.com/rust-lang) | [rust-lang/book](https://github.com/rust-lang/book) | The Rust Programming Language | Rust | 15255 | 7 |
 | [![tokio-rs](https://avatars.githubusercontent.com/u/718941?s=40&v=4)](https://github.com/tokio-rs) | [tokio-rs/axum](https://github.com/tokio-rs/axum) | Ergonomic and modular web framework built with Tokio, Tower, and Hyper | Rust | 19341 | 10 |
-| [![ratatui](https://avatars.githubusercontent.com/u/381361?s=40&v=4)](https://github.com/ratatui) | [ratatui/ratatui](https://github.com/ratatui/ratatui) | A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs | Rust | 10929 | 41 |
+| [![ratatui](https://avatars.githubusercontent.com/u/381361?s=40&v=4)](https://github.com/ratatui) | [ratatui/ratatui](https://github.com/ratatui/ratatui) | A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs | Rust | 10930 | 41 |
 | [![yobix-ai](https://avatars.githubusercontent.com/u/3158098?s=40&v=4)](https://github.com/yobix-ai) | [yobix-ai/extractous](https://github.com/yobix-ai/extractous) | Fast and efficient unstructured data extraction. Written in Rust with bindings for many languages. | Rust | 390 | 10 |
 | [![hyperium](https://avatars.githubusercontent.com/u/5758045?s=40&v=4)](https://github.com/hyperium) | [hyperium/tonic](https://github.com/hyperium/tonic) | A native gRPC client & server implementation with async/await support. | Rust | 10060 | 8 |
 | [![influxdata](https://avatars.githubusercontent.com/in/29196?s=40&v=4)](https://github.com/influxdata) | [influxdata/influxdb](https://github.com/influxdata/influxdb) | Scalable datastore for metrics, events, and real-time analytics | Rust | 29012 | 6 |
@@ -25,4 +25,4 @@ Updated on: **Mon, 25 Nov 2024 07:19:01 GMT**
 | [![qarmin](https://avatars.githubusercontent.com/u/41945903?s=40&v=4)](https://github.com/qarmin) | [qarmin/czkawka](https://github.com/qarmin/czkawka) | Multi functional app to find duplicates, empty folders, similar images etc. | Rust | 20383 | 23 |
 | [![tikv](https://avatars.githubusercontent.com/u/1701473?s=40&v=4)](https://github.com/tikv) | [tikv/tikv](https://github.com/tikv/tikv) | Distributed transactional key-value database, originally created to complement TiDB | Rust | 15313 | 6 |
 | [![dani-garcia](https://avatars.githubusercontent.com/u/725423?s=40&v=4)](https://github.com/dani-garcia) | [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | Rust | 39335 | 35 |
-| [![LGUG2Z](https://avatars.githubusercontent.com/u/13164844?s=40&v=4)](https://github.com/LGUG2Z) | [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) | A tiling window manager for Windows 🍉 | Rust | 9608 | 21 |
+| [![LGUG2Z](https://avatars.githubusercontent.com/u/13164844?s=40&v=4)](https://github.com/LGUG2Z) | [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) | A tiling window manager for Windows 🍉 | Rust | 9609 | 21 |
