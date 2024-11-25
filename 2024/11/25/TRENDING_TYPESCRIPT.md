@@ -1,10 +1,10 @@
 # 🔥 Trending typescript GitHub Repositories
 
-Updated on: **Mon, 25 Nov 2024 04:20:32 GMT**
+Updated on: **Mon, 25 Nov 2024 04:25:35 GMT**
 
 | Author | Repository | Description | Language | ⭐ Total Stars | 🌟 Stars Today |
 |--------|------------|-------------|----------|----------------|----------------|
-| [![gitroomhq](https://avatars.githubusercontent.com/u/2025715?s=40&v=4)](https://github.com/gitroomhq) | [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | 📨 The ultimate social media scheduling tool, with a bunch of AI 🤖 | TypeScript | 11281 | 294 |
+| [![gitroomhq](https://avatars.githubusercontent.com/u/2025715?s=40&v=4)](https://github.com/gitroomhq) | [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | 📨 The ultimate social media scheduling tool, with a bunch of AI 🤖 | TypeScript | 11283 | 294 |
 | [![pingcap](https://avatars.githubusercontent.com/u/12960671?s=40&v=4)](https://github.com/pingcap) | [pingcap/autoflow](https://github.com/pingcap/autoflow) | pingcap/autoflow is a Graph RAG based and conversational knowledge base tool built with TiDB Serverless Vector Storage. Demo: https://tidb.ai | TypeScript | 1417 | 194 |
 | [![ant-design](https://avatars.githubusercontent.com/u/5378891?s=40&v=4)](https://github.com/ant-design) | [ant-design/x](https://github.com/ant-design/x) | The ready-made partner for building Copilot applications 🤖 | TypeScript | 272 | 40 |
 | [![sst](https://avatars.githubusercontent.com/u/826656?s=40&v=4)](https://github.com/sst) | [sst/sst](https://github.com/sst/sst) | Build full-stack apps on your own infrastructure. | TypeScript | 22120 | 18 |
@@ -17,5 +17,5 @@ Updated on: **Mon, 25 Nov 2024 04:20:32 GMT**
 | [![linkwarden](https://avatars.githubusercontent.com/u/93432314?s=40&v=4)](https://github.com/linkwarden) | [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) | ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and more... | TypeScript | 8846 | 30 |
 | [![BuilderIO](https://avatars.githubusercontent.com/u/844291?s=40&v=4)](https://github.com/BuilderIO) | [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) | Crawl a site to generate knowledge files to create your own custom GPT from a URL | TypeScript | 18918 | 14 |
 | [![DIYgod](https://avatars.githubusercontent.com/in/15368?s=40&v=4)](https://github.com/DIYgod) | [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) | 🧡 Everything is RSSible | TypeScript | 33825 | 29 |
-| [![ai16z](https://avatars.githubusercontent.com/u/18633264?s=40&v=4)](https://github.com/ai16z) | [ai16z/eliza](https://github.com/ai16z/eliza) | Conversational Agent for Twitter and Discord | TypeScript | 2096 | 70 |
+| [![ai16z](https://avatars.githubusercontent.com/u/18633264?s=40&v=4)](https://github.com/ai16z) | [ai16z/eliza](https://github.com/ai16z/eliza) | Conversational Agent for Twitter and Discord | TypeScript | 2097 | 70 |
 | [![caorushizi](https://avatars.githubusercontent.com/u/19359849?s=40&v=4)](https://github.com/caorushizi) | [caorushizi/mediago](https://github.com/caorushizi/mediago) | m3u8[m3u8-downloader] 视频在线提取工具 流媒体下载 、视频下载 、 m3u8下载 、 B站视频下载 桌面客户端 windows mac | TypeScript | 4756 | 20 |

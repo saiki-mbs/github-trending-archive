@@ -1,11 +1,11 @@
 # 🔥 Trending rust GitHub Repositories
 
-Updated on: **Mon, 25 Nov 2024 04:20:36 GMT**
+Updated on: **Mon, 25 Nov 2024 04:25:38 GMT**
 
 | Author | Repository | Description | Language | ⭐ Total Stars | 🌟 Stars Today |
 |--------|------------|-------------|----------|----------------|----------------|
-| [![surrealdb](https://avatars.githubusercontent.com/u/1588290?s=40&v=4)](https://github.com/surrealdb) | [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) | A scalable, distributed, collaborative, document-graph database, for the realtime web | Rust | 27838 | 27 |
-| [![mediar-ai](https://avatars.githubusercontent.com/u/25003283?s=40&v=4)](https://github.com/mediar-ai) | [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) | rewind.ai x cursor.com = your AI assistant that has all the context. 24/7 screen & voice recording for the age of super intelligence. get your data ready or be left behind | Rust | 10052 | 252 |
+| [![surrealdb](https://avatars.githubusercontent.com/u/1588290?s=40&v=4)](https://github.com/surrealdb) | [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) | A scalable, distributed, collaborative, document-graph database, for the realtime web | Rust | 27839 | 27 |
+| [![mediar-ai](https://avatars.githubusercontent.com/u/25003283?s=40&v=4)](https://github.com/mediar-ai) | [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) | rewind.ai x cursor.com = your AI assistant that has all the context. 24/7 screen & voice recording for the age of super intelligence. get your data ready or be left behind | Rust | 10053 | 252 |
 | [![Snowiiii](https://avatars.githubusercontent.com/u/71594357?s=40&v=4)](https://github.com/Snowiiii) | [Snowiiii/Pumpkin](https://github.com/Snowiiii/Pumpkin) | Empowering everyone to host fast and efficient Minecraft servers. | Rust | 3292 | 22 |
 | [![rust-lang](https://avatars.githubusercontent.com/u/3372342?s=40&v=4)](https://github.com/rust-lang) | [rust-lang/rust](https://github.com/rust-lang/rust) | Empowering everyone to build reliable and efficient software. | Rust | 98831 | 30 |
 | [![meilisearch](https://avatars.githubusercontent.com/u/3610253?s=40&v=4)](https://github.com/meilisearch) | [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) | A lightning-fast search API that fits effortlessly into your apps, websites, and workflow | Rust | 47583 | 20 |
