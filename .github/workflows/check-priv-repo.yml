@@ -1,0 +1,35 @@
+name: Check Private Repo Status
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'  # Runs every 30 minutes
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  check-status:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check private repo workflow status
+        env:
+          GH_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        run: |
+          STATUS=$(gh api -H "Accept: application/vnd.github+json" /repos/saiki-mbs/github-trending-tracker/actions/workflows/update-trending.yml/runs?per_page=1 | jq -r '.workflow_runs[0].conclusion')
+          if [ "$STATUS" = "success" ]; then
+            echo "status=success" >> $GITHUB_OUTPUT
+          else
+            echo "status=failure" >> $GITHUB_OUTPUT
+          fi
+        id: check
+
+      - name: Update README with status badge
+        run: |
+          sed -i 's/!\[Build Status\](.*))/![Build Status](https:\/\/img.shields.io\/badge\/build-${{ steps.check.outputs.status }}-${{ steps.check.outputs.status == 'success' && 'brightgreen' || 'red' }})/g' README.md
+          
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update status badge"
+          git push
+
