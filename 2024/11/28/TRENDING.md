@@ -1,0 +1,19 @@
+# 🔥 Trending GitHub Repositories
+
+Updated on: **Thu, 28 Nov 2024 01:13:41 GMT**
+
+| Author | Repository | Description | Language | ⭐ Total Stars | 🌟 Stars Today |
+|--------|------------|-------------|----------|----------------|----------------|
+| [![OpenInterpreter](https://avatars.githubusercontent.com/u/63927363?s=40&v=4)](https://github.com/OpenInterpreter) | [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) | A natural language interface for computers | Python | 56535 | 297 |
+| [![andrewyng](https://avatars.githubusercontent.com/u/103829?s=40&v=4)](https://github.com/andrewyng) | [andrewyng/aisuite](https://github.com/andrewyng/aisuite) | Simple, unified interface to multiple Generative AI providers | Python | 3161 | 990 |
+| [![wagoodman](https://avatars.githubusercontent.com/u/590471?s=40&v=4)](https://github.com/wagoodman) | [wagoodman/dive](https://github.com/wagoodman/dive) | A tool for exploring each layer in a docker image | Go | 47486 | 300 |
+| [![microsoft](https://avatars.githubusercontent.com/u/3671933?s=40&v=4)](https://github.com/microsoft) | [microsoft/graphrag](https://github.com/microsoft/graphrag) | A modular graph-based Retrieval-Augmented Generation (RAG) system | Python | 19672 | 98 |
+| [![cypress-io](https://avatars.githubusercontent.com/u/1268976?s=40&v=4)](https://github.com/cypress-io) | [cypress-io/cypress](https://github.com/cypress-io/cypress) | Fast, easy and reliable testing for anything that runs in a browser. | JavaScript | 47196 | 21 |
+| [![n8n-io](https://avatars.githubusercontent.com/u/6249596?s=40&v=4)](https://github.com/n8n-io) | [n8n-io/n8n](https://github.com/n8n-io/n8n) | Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services. | TypeScript | 49784 | 98 |
+| [![skills](https://avatars.githubusercontent.com/u/1221423?s=40&v=4)](https://github.com/skills) | [skills/introduction-to-github](https://github.com/skills/introduction-to-github) | Get started using GitHub in less than an hour. | N/A | 4712 | 17 |
+| [![Alamofire](https://avatars.githubusercontent.com/u/169110?s=40&v=4)](https://github.com/Alamofire) | [Alamofire/Alamofire](https://github.com/Alamofire/Alamofire) | Elegant HTTP Networking in Swift | Swift | 41217 | 7 |
+| [![EbookFoundation](https://avatars.githubusercontent.com/u/2022803?s=40&v=4)](https://github.com/EbookFoundation) | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books | HTML | 340235 | 369 |
+| [![jesseduffield](https://avatars.githubusercontent.com/u/8456633?s=40&v=4)](https://github.com/jesseduffield) | [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) | The lazier way to manage everything docker | Go | 38549 | 150 |
+| [![kubernetes](https://avatars.githubusercontent.com/u/20407524?s=40&v=4)](https://github.com/kubernetes) | [kubernetes/website](https://github.com/kubernetes/website) | Kubernetes website and documentation repo: | HTML | 4544 | 9 |
+| [![renovatebot](https://avatars.githubusercontent.com/u/6311784?s=40&v=4)](https://github.com/renovatebot) | [renovatebot/renovate](https://github.com/renovatebot/renovate) | Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io | TypeScript | 17797 | 11 |
+| [![Azure](https://avatars.githubusercontent.com/u/53356347?s=40&v=4)](https://github.com/Azure) | [Azure/azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net) | This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net. | C# | 5523 | 2 |

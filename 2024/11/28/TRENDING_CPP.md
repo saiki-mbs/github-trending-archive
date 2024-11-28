@@ -1,0 +1,26 @@
+# 🔥 Trending cpp GitHub Repositories
+
+Updated on: **Thu, 28 Nov 2024 01:13:52 GMT**
+
+| Author | Repository | Description | Language | ⭐ Total Stars | 🌟 Stars Today |
+|--------|------------|-------------|----------|----------------|----------------|
+| [![scylladb](https://avatars.githubusercontent.com/u/1017210?s=40&v=4)](https://github.com/scylladb) | [scylladb/seastar](https://github.com/scylladb/seastar) | High performance server-side application framework | C++ | 8402 | 4 |
+| [![drogonframework](https://avatars.githubusercontent.com/u/21002501?s=40&v=4)](https://github.com/drogonframework) | [drogonframework/drogon](https://github.com/drogonframework/drogon) | Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows | C++ | 11646 | 7 |
+| [![SoftFever](https://avatars.githubusercontent.com/u/103989404?s=40&v=4)](https://github.com/SoftFever) | [SoftFever/OrcaSlicer](https://github.com/SoftFever/OrcaSlicer) | G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.) | C++ | 7436 | 11 |
+| [![ml-explore](https://avatars.githubusercontent.com/u/1542805?s=40&v=4)](https://github.com/ml-explore) | [ml-explore/mlx](https://github.com/ml-explore/mlx) | MLX: An array framework for Apple silicon | C++ | 17548 | 35 |
+| [![chriskohlhoff](https://avatars.githubusercontent.com/u/462538?s=40&v=4)](https://github.com/chriskohlhoff) | [chriskohlhoff/asio](https://github.com/chriskohlhoff/asio) | Asio C++ Library | C++ | 4980 | 1 |
+| [![zaphoyd](https://avatars.githubusercontent.com/u/1006976?s=40&v=4)](https://github.com/zaphoyd) | [zaphoyd/websocketpp](https://github.com/zaphoyd/websocketpp) | C++ websocket client/server library | C++ | 7081 | 2 |
+| [![NVIDIA](https://avatars.githubusercontent.com/u/57973641?s=40&v=4)](https://github.com/NVIDIA) | [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) | CUDA Templates for Linear Algebra Subroutines | C++ | 5725 | 10 |
+| [![catchorg](https://avatars.githubusercontent.com/u/9026413?s=40&v=4)](https://github.com/catchorg) | [catchorg/Catch2](https://github.com/catchorg/Catch2) | A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch) | C++ | 18766 | 7 |
+| [![nlohmann](https://avatars.githubusercontent.com/u/159488?s=40&v=4)](https://github.com/nlohmann) | [nlohmann/json](https://github.com/nlohmann/json) | JSON for Modern C++ | C++ | 43392 | 16 |
+| [![grpc](https://avatars.githubusercontent.com/u/10120821?s=40&v=4)](https://github.com/grpc) | [grpc/grpc](https://github.com/grpc/grpc) | The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#) | C++ | 42034 | 8 |
+| [![WiseLibs](https://avatars.githubusercontent.com/u/8255757?s=40&v=4)](https://github.com/WiseLibs) | [WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3) | The fastest and simplest library for SQLite3 in Node.js. | C++ | 5565 | 6 |
+| [![PerformanC](https://avatars.githubusercontent.com/u/73797168?s=40&v=4)](https://github.com/PerformanC) | [PerformanC/ReZygisk](https://github.com/PerformanC/ReZygisk) | Transparent implementation of Zygisk. | C++ | 504 | 6 |
+| [![wkhtmltopdf](https://avatars.githubusercontent.com/u/854352?s=40&v=4)](https://github.com/wkhtmltopdf) | [wkhtmltopdf/wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) | Convert HTML to PDF using Webkit (QtWebKit) | C++ | 14015 | 6 |
+| [![openvinotoolkit](https://avatars.githubusercontent.com/u/2566854?s=40&v=4)](https://github.com/openvinotoolkit) | [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) | OpenVINO™ is an open-source toolkit for optimizing and deploying AI inference | C++ | 7349 | 6 |
+| [![tensorflow](https://avatars.githubusercontent.com/u/17151892?s=40&v=4)](https://github.com/tensorflow) | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) | An Open Source Machine Learning Framework for Everyone | C++ | 186560 | 31 |
+| [![doctest](https://avatars.githubusercontent.com/u/4648169?s=40&v=4)](https://github.com/doctest) | [doctest/doctest](https://github.com/doctest/doctest) | The fastest feature-rich C++11/14/17/20/23 single-header testing framework | C++ | 5962 | 4 |
+| [![cameron314](https://avatars.githubusercontent.com/u/116235?s=40&v=4)](https://github.com/cameron314) | [cameron314/concurrentqueue](https://github.com/cameron314/concurrentqueue) | A fast multi-producer, multi-consumer lock-free concurrent queue for C++11 | C++ | 10038 | 5 |
+| [![google](https://avatars.githubusercontent.com/u/1176427?s=40&v=4)](https://github.com/google) | [google/benchmark](https://github.com/google/benchmark) | A microbenchmark support library | C++ | 9057 | 2 |
+| [![dragonflydb](https://avatars.githubusercontent.com/u/3674760?s=40&v=4)](https://github.com/dragonflydb) | [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) | A modern replacement for Redis and Memcached | C++ | 26016 | 22 |
+| [![apache](https://avatars.githubusercontent.com/u/27350?s=40&v=4)](https://github.com/apache) | [apache/arrow](https://github.com/apache/arrow) | Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics | C++ | 14664 | 5 |
