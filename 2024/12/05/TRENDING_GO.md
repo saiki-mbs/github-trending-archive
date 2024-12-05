@@ -1,0 +1,27 @@
+# 🔥 Trending go GitHub Repositories
+
+Updated on: **Thu, 05 Dec 2024 01:15:25 GMT**
+
+| Author | Repository | Description | Language | ⭐ Total Stars | 🌟 Stars Today |
+|--------|------------|-------------|----------|----------------|----------------|
+| [![FiloSottile](https://avatars.githubusercontent.com/u/1225294?s=40&v=4)](https://github.com/FiloSottile) | [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) | A simple zero-config tool to make locally trusted development certificates with any names you'd like. | Go | 50867 | 50 |
+| [![open-telemetry](https://avatars.githubusercontent.com/u/5543599?s=40&v=4)](https://github.com/open-telemetry) | [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) | OpenTelemetry Go API and SDK | Go | 5366 | 6 |
+| [![argoproj](https://avatars.githubusercontent.com/u/426437?s=40&v=4)](https://github.com/argoproj) | [argoproj/argo-cd](https://github.com/argoproj/argo-cd) | Declarative Continuous Deployment for Kubernetes | Go | 18072 | 4 |
+| [![nats-io](https://avatars.githubusercontent.com/u/90097?s=40&v=4)](https://github.com/nats-io) | [nats-io/nats-server](https://github.com/nats-io/nats-server) | High-Performance server for NATS.io, the cloud and edge native messaging system. | Go | 16077 | 7 |
+| [![docker](https://avatars.githubusercontent.com/u/1951866?s=40&v=4)](https://github.com/docker) | [docker/buildx](https://github.com/docker/buildx) | Docker CLI plugin for extended build capabilities with BuildKit | Go | 3604 | 2 |
+| [![fyne-io](https://avatars.githubusercontent.com/u/294436?s=40&v=4)](https://github.com/fyne-io) | [fyne-io/fyne](https://github.com/fyne-io/fyne) | Cross platform GUI toolkit in Go inspired by Material Design | Go | 25306 | 14 |
+| [![ray-project](https://avatars.githubusercontent.com/u/20109646?s=40&v=4)](https://github.com/ray-project) | [ray-project/kuberay](https://github.com/ray-project/kuberay) | A toolkit to run Ray applications on Kubernetes | Go | 1311 | 1 |
+| [![syncthing](https://avatars.githubusercontent.com/u/125426?s=40&v=4)](https://github.com/syncthing) | [syncthing/syncthing](https://github.com/syncthing/syncthing) | Open Source Continuous File Synchronization | Go | 65985 | 27 |
+| [![jackc](https://avatars.githubusercontent.com/u/94130?s=40&v=4)](https://github.com/jackc) | [jackc/pgx](https://github.com/jackc/pgx) | PostgreSQL driver and toolkit for Go | Go | 10911 | 7 |
+| [![golang-migrate](https://avatars.githubusercontent.com/u/896205?s=40&v=4)](https://github.com/golang-migrate) | [golang-migrate/migrate](https://github.com/golang-migrate/migrate) | Database migrations. CLI and Golang library. | Go | 15641 | 11 |
+| [![minio](https://avatars.githubusercontent.com/u/622699?s=40&v=4)](https://github.com/minio) | [minio/minio](https://github.com/minio/minio) | MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license. | Go | 48657 | 26 |
+| [![netbirdio](https://avatars.githubusercontent.com/u/7747744?s=40&v=4)](https://github.com/netbirdio) | [netbirdio/netbird](https://github.com/netbirdio/netbird) | Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. | Go | 11383 | 14 |
+| [![distribution](https://avatars.githubusercontent.com/u/120601?s=40&v=4)](https://github.com/distribution) | [distribution/distribution](https://github.com/distribution/distribution) | The toolkit to pack, ship, store, and deliver container content | Go | 9057 | 3 |
+| [![grpc](https://avatars.githubusercontent.com/u/10121772?s=40&v=4)](https://github.com/grpc) | [grpc/grpc-go](https://github.com/grpc/grpc-go) | The Go language implementation of gRPC. HTTP/2 based RPC | Go | 21156 | 2 |
+| [![projectdiscovery](https://avatars.githubusercontent.com/in/29110?s=40&v=4)](https://github.com/projectdiscovery) | [projectdiscovery/katana](https://github.com/projectdiscovery/katana) | A next-generation crawling and spidering framework. | Go | 12414 | 47 |
+| [![ddev](https://avatars.githubusercontent.com/u/112444?s=40&v=4)](https://github.com/ddev) | [ddev/ddev](https://github.com/ddev/ddev) | Docker-based local PHP+Node.js web development environments | Go | 2810 | 1 |
+| [![kubernetes](https://avatars.githubusercontent.com/u/20407524?s=40&v=4)](https://github.com/kubernetes) | [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) | Autoscaling components for Kubernetes | Go | 8113 | 3 |
+| [![mikefarah](https://avatars.githubusercontent.com/u/1151925?s=40&v=4)](https://github.com/mikefarah) | [mikefarah/yq](https://github.com/mikefarah/yq) | yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor | Go | 12411 | 6 |
+| [![influxdata](https://avatars.githubusercontent.com/u/1048079?s=40&v=4)](https://github.com/influxdata) | [influxdata/telegraf](https://github.com/influxdata/telegraf) | Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data. | Go | 14934 | 9 |
+| [![grafana](https://avatars.githubusercontent.com/u/1053421?s=40&v=4)](https://github.com/grafana) | [grafana/loki](https://github.com/grafana/loki) | Like Prometheus, but for logs. | Go | 24097 | 12 |
+| [![stretchr](https://avatars.githubusercontent.com/u/1005?s=40&v=4)](https://github.com/stretchr) | [stretchr/testify](https://github.com/stretchr/testify) | A toolkit with common assertions and mocks that plays nicely with the standard library | Go | 23589 | 6 |
