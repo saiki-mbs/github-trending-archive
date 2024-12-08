@@ -2,14 +2,14 @@
 <h1>GitHub Trending Repositories Archive</h1>
 <p>Daily and weekly snapshots of GitHub's most popular repositories</p>
 <a href="https://github.com/saiki-mbs/github-trending-archive/actions">
-<img src="https://img.shields.io/badge/build-success-brightgreen" alt="Build Status">
+<img src="https://github.com/saiki-mbs/github-trending-tracker/workflows/Update%20Trending%20Repositories/badge.svg" alt="Build Status">
 </div>
 
 <div align="center">
 <table>
 <tr>
   <td>
-    <a href="./2024/12/07/TRENDING.md">
+    <a href="./2024/12/08/TRENDING.md">
       <b>View Today's Trending Repositories →</b>
     </a>
   </td>
@@ -32,14 +32,14 @@ This project automatically archives GitHub's trending repositories every day at 
 
 ### Latest Daily Trending Repositories
 
-- [All Languages](./2024/12/07/TRENDING.md)
-- [JavaScript](./2024/12/07/TRENDING_JAVASCRIPT.md)
-- [Python](./2024/12/07/TRENDING_PYTHON.md)
-- [Java](./2024/12/07/TRENDING_JAVA.md)
-- [C++](./2024/12/07/TRENDING_CPP.md)
-- [TypeScript](./2024/12/07/TRENDING_TYPESCRIPT.md)
-- [Go](./2024/12/07/TRENDING_GO.md)
-- [Rust](./2024/12/07/TRENDING_RUST.md)
+- [All Languages](./2024/12/08/TRENDING.md)
+- [JavaScript](./2024/12/08/TRENDING_JAVASCRIPT.md)
+- [Python](./2024/12/08/TRENDING_PYTHON.md)
+- [Java](./2024/12/08/TRENDING_JAVA.md)
+- [C++](./2024/12/08/TRENDING_CPP.md)
+- [TypeScript](./2024/12/08/TRENDING_TYPESCRIPT.md)
+- [Go](./2024/12/08/TRENDING_GO.md)
+- [Rust](./2024/12/08/TRENDING_RUST.md)
 
 ### Latest Weekly Trending Repositories
 
@@ -58,7 +58,7 @@ This project automatically archives GitHub's trending repositories every day at 
 /
 ├── 2024/
 │   ├── 12/
-│   │   ├── 07/
+│   │   ├── 08/
 │   │   │   ├── TRENDING.md
 │   │   │   ├── TRENDING_JAVASCRIPT.md
 │   │   │   ├── TRENDING_PYTHON.md
@@ -77,4 +77,4 @@ This project automatically archives GitHub's trending repositories every day at 
 
 ---
 
-Last updated: Sat, 07 Dec 2024 01:13:46 GMT
+Last updated: Sun, 08 Dec 2024 01:20:03 GMT
