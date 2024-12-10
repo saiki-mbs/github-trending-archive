@@ -1,0 +1,25 @@
+# 🔥 Trending GitHub Repositories
+
+Updated on: **Tue, 10 Dec 2024 01:15:58 GMT**
+
+| Author | Repository | Description | Language | ⭐ Total Stars | 🌟 Stars Today |
+|--------|------------|-------------|----------|----------------|----------------|
+| [![astral-sh](https://avatars.githubusercontent.com/u/1309177?s=40&v=4)](https://github.com/astral-sh) | [astral-sh/uv](https://github.com/astral-sh/uv) | An extremely fast Python package and project manager, written in Rust. | Rust | 30400 | 434 |
+| [![bitcoin](https://avatars.githubusercontent.com/u/126646?s=40&v=4)](https://github.com/bitcoin) | [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) | Bitcoin Core integration/staging tree | C++ | 80357 | 89 |
+| [![DrKLO](https://avatars.githubusercontent.com/u/7038595?s=40&v=4)](https://github.com/DrKLO) | [DrKLO/Telegram](https://github.com/DrKLO/Telegram) | Telegram for Android source | Java | 25404 | 11 |
+| [![lmarzen](https://avatars.githubusercontent.com/u/98473324?s=40&v=4)](https://github.com/lmarzen) | [lmarzen/esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd) | A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API. | C | 3015 | 84 |
+| [![fishaudio](https://avatars.githubusercontent.com/u/25119060?s=40&v=4)](https://github.com/fishaudio) | [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) | SOTA Open Source TTS | Python | 16455 | 404 |
+| [![pocketbase](https://avatars.githubusercontent.com/u/8248071?s=40&v=4)](https://github.com/pocketbase) | [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) | Open Source realtime backend in 1 file | Go | 41871 | 252 |
+| [![nexus-xyz](https://avatars.githubusercontent.com/u/864855?s=40&v=4)](https://github.com/nexus-xyz) | [nexus-xyz/nexus-zkvm](https://github.com/nexus-xyz/nexus-zkvm) | The Nexus zkVM: The zero-knowledge virtual machine | Rust | 870 | 17 |
+| [![daytonaio](https://avatars.githubusercontent.com/u/25279767?s=40&v=4)](https://github.com/daytonaio) | [daytonaio/daytona](https://github.com/daytonaio/daytona) | The Open Source Dev Environment Manager. | Go | 13055 | 251 |
+| [![LizardByte](https://avatars.githubusercontent.com/u/42013603?s=40&v=4)](https://github.com/LizardByte) | [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) | Self-hosted game stream host for Moonlight. | C++ | 20506 | 41 |
+| [![phidatahq](https://avatars.githubusercontent.com/u/22579644?s=40&v=4)](https://github.com/phidatahq) | [phidatahq/phidata](https://github.com/phidatahq/phidata) | Build multi-modal Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI. | Python | 15995 | 63 |
+| [![libsdl-org](https://avatars.githubusercontent.com/u/2100061?s=40&v=4)](https://github.com/libsdl-org) | [libsdl-org/SDL](https://github.com/libsdl-org/SDL) | Simple Directmedia Layer | C | 10409 | 40 |
+| [![koreader](https://avatars.githubusercontent.com/u/670302?s=40&v=4)](https://github.com/koreader) | [koreader/koreader](https://github.com/koreader/koreader) | An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices | Lua | 17156 | 47 |
+| [![ollama](https://avatars.githubusercontent.com/u/2372640?s=40&v=4)](https://github.com/ollama) | [ollama/ollama](https://github.com/ollama/ollama) | Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models. | Go | 101794 | 333 |
+| [![microsoft](https://avatars.githubusercontent.com/u/12021217?s=40&v=4)](https://github.com/microsoft) | [microsoft/torchgeo](https://github.com/microsoft/torchgeo) | TorchGeo: datasets, samplers, transforms, and pre-trained models for geospatial data | Python | 2893 | 25 |
+| [![jdx](https://avatars.githubusercontent.com/u/216188?s=40&v=4)](https://github.com/jdx) | [jdx/mise](https://github.com/jdx/mise) | dev tools, env vars, task runner | Rust | 11449 | 534 |
+| [![cline](https://avatars.githubusercontent.com/u/7799382?s=40&v=4)](https://github.com/cline) | [cline/cline](https://github.com/cline/cline) | Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way. | TypeScript | 13999 | 275 |
+| [![iptv-org](https://avatars.githubusercontent.com/u/7253922?s=40&v=4)](https://github.com/iptv-org) | [iptv-org/iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world | JavaScript | 87386 | 167 |
+| [![meta-llama](https://avatars.githubusercontent.com/u/19390?s=40&v=4)](https://github.com/meta-llama) | [meta-llama/llama-models](https://github.com/meta-llama/llama-models) | Utilities intended for use with Llama models. | Python | 5165 | 41 |
+| [![al1abb](https://avatars.githubusercontent.com/u/60220042?s=40&v=4)](https://github.com/al1abb) | [al1abb/invoify](https://github.com/al1abb/invoify) | An invoice generator app built using Next.js, Typescript, and Shadcn | TypeScript | 1097 | 141 |
