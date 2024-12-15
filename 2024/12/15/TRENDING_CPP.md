@@ -1,0 +1,29 @@
+# 🔥 Trending cpp GitHub Repositories
+
+Updated on: **Sun, 15 Dec 2024 01:20:09 GMT**
+
+| Author | Repository | Description | Language | ⭐ Total Stars | 🌟 Stars Today |
+|--------|------------|-------------|----------|----------------|----------------|
+| [![sogou](https://avatars.githubusercontent.com/u/52160700?s=40&v=4)](https://github.com/sogou) | [sogou/workflow](https://github.com/sogou/workflow) | C++ Parallel Computing and Asynchronous Networking Framework | C++ | 13284 | 5 |
+| [![google](https://avatars.githubusercontent.com/u/2170034?s=40&v=4)](https://github.com/google) | [google/glog](https://github.com/google/glog) | C++ implementation of the Google logging module | C++ | 7134 | 0 |
+| [![catchorg](https://avatars.githubusercontent.com/u/9026413?s=40&v=4)](https://github.com/catchorg) | [catchorg/Catch2](https://github.com/catchorg/Catch2) | A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch) | C++ | 18831 | 3 |
+| [![chriskohlhoff](https://avatars.githubusercontent.com/u/462538?s=40&v=4)](https://github.com/chriskohlhoff) | [chriskohlhoff/asio](https://github.com/chriskohlhoff/asio) | Asio C++ Library | C++ | 5011 | 2 |
+| [![gcc-mirror](https://avatars.githubusercontent.com/u/9370665?s=40&v=4)](https://github.com/gcc-mirror) | [gcc-mirror/gcc](https://github.com/gcc-mirror/gcc) | No description | C++ | 9439 | 2 |
+| [![Detanup01](https://avatars.githubusercontent.com/u/153766569?s=40&v=4)](https://github.com/Detanup01) | [Detanup01/gbe_fork](https://github.com/Detanup01/gbe_fork) | Fork of https://gitlab.com/Mr_Goldberg/goldberg_emulator | C++ | 333 | 8 |
+| [![Project-OSRM](https://avatars.githubusercontent.com/u/1067895?s=40&v=4)](https://github.com/Project-OSRM) | [Project-OSRM/osrm-backend](https://github.com/Project-OSRM/osrm-backend) | Open Source Routing Machine - C++ backend | C++ | 6483 | 4 |
+| [![CleverRaven](https://avatars.githubusercontent.com/u/16213433?s=40&v=4)](https://github.com/CleverRaven) | [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) | Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world. | C++ | 10757 | 9 |
+| [![firebase](https://avatars.githubusercontent.com/u/73870?s=40&v=4)](https://github.com/firebase) | [firebase/firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk) | Firebase SDK for Apple App Development | C++ | 5709 | 1 |
+| [![lballabio](https://avatars.githubusercontent.com/u/170560?s=40&v=4)](https://github.com/lballabio) | [lballabio/QuantLib](https://github.com/lballabio/QuantLib) | The QuantLib C++ library | C++ | 5470 | 5 |
+| [![google](https://avatars.githubusercontent.com/u/12735026?s=40&v=4)](https://github.com/google) | [google/googletest](https://github.com/google/googletest) | GoogleTest - Google Testing and Mocking Framework | C++ | 35038 | 14 |
+| [![google](https://avatars.githubusercontent.com/u/1176427?s=40&v=4)](https://github.com/google) | [google/benchmark](https://github.com/google/benchmark) | A microbenchmark support library | C++ | 9107 | 3 |
+| [![transmission](https://avatars.githubusercontent.com/u/70381?s=40&v=4)](https://github.com/transmission) | [transmission/transmission](https://github.com/transmission/transmission) | Official Transmission BitTorrent client repository | C++ | 12380 | 5 |
+| [![swiftlang](https://avatars.githubusercontent.com/u/15467072?s=40&v=4)](https://github.com/swiftlang) | [swiftlang/swift](https://github.com/swiftlang/swift) | The Swift Programming Language | C++ | 67737 | 10 |
+| [![nlohmann](https://avatars.githubusercontent.com/u/159488?s=40&v=4)](https://github.com/nlohmann) | [nlohmann/json](https://github.com/nlohmann/json) | JSON for Modern C++ | C++ | 43644 | 15 |
+| [![fmtlib](https://avatars.githubusercontent.com/u/576385?s=40&v=4)](https://github.com/fmtlib) | [fmtlib/fmt](https://github.com/fmtlib/fmt) | A modern formatting library | C++ | 20967 | 8 |
+| [![BlackINT3](https://avatars.githubusercontent.com/u/35478470?s=40&v=4)](https://github.com/BlackINT3) | [BlackINT3/OpenArk](https://github.com/BlackINT3/OpenArk) | The Next Generation of Anti-Rookit(ARK) tool for Windows. | C++ | 9690 | 18 |
+| [![envoyproxy](https://avatars.githubusercontent.com/in/29110?s=40&v=4)](https://github.com/envoyproxy) | [envoyproxy/envoy](https://github.com/envoyproxy/envoy) | Cloud-native high-performance edge/middle/service proxy | C++ | 25182 | 1 |
+| [![cloudflare](https://avatars.githubusercontent.com/u/439929?s=40&v=4)](https://github.com/cloudflare) | [cloudflare/workerd](https://github.com/cloudflare/workerd) | The JavaScript / Wasm runtime that powers Cloudflare Workers | C++ | 6336 | 2 |
+| [![microsoft](https://avatars.githubusercontent.com/u/856316?s=40&v=4)](https://github.com/microsoft) | [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) | ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator | C++ | 14981 | 4 |
+| [![TheAlgorithms](https://avatars.githubusercontent.com/u/51391473?s=40&v=4)](https://github.com/TheAlgorithms) | [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) | Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes. | C++ | 30944 | 6 |
+| [![emscripten-core](https://avatars.githubusercontent.com/u/173661?s=40&v=4)](https://github.com/emscripten-core) | [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) | Emscripten: An LLVM-to-WebAssembly Compiler | C++ | 25948 | 3 |
+| [![duckdb](https://avatars.githubusercontent.com/u/3978469?s=40&v=4)](https://github.com/duckdb) | [duckdb/duckdb](https://github.com/duckdb/duckdb) | DuckDB is an analytical in-process SQL database management system | C++ | 24980 | 22 |
